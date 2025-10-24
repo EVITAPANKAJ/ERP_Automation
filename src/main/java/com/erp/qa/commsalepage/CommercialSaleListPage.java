@@ -51,6 +51,8 @@ public class CommercialSaleListPage extends BasePage {
     public void searchOnDeliveryman(String del) {    	
     	searchDeliveryman.sendKeys(del);
     }
+    @FindBy(xpath="")
+    private WebElement getdata;
 
 
 }
