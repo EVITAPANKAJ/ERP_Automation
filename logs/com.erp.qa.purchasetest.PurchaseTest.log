@@ -1,0 +1,32 @@
+2025-10-11 10:03:12,273 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - ===== Starting Test Setup for: com.erp.qa.purchasetest.PurchaseTest =====
+2025-10-11 10:03:17,935 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Browser launched and navigated to application.
+2025-10-11 10:03:19,125 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - All Page Objects initialized successfully.
+2025-10-11 10:03:19,150 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Starting verifyPurchaseLink test
+2025-10-11 10:03:21,553 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Login successful
+2025-10-11 10:03:24,801 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Purchase link clicked successfully
+2025-10-11 10:03:26,468 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Purchase Form link clicked successfully
+2025-10-11 10:03:33,382 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Purchase Form details filled successfully
+2025-10-11 10:03:35,399 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Ending verifyPurchaseLink test
+2025-10-11 10:03:36,448 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Browser closed successfully.
+2025-10-11 10:03:36,449 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - ✅ Test Passed: verifyPurchaseLink
+2025-10-11 10:16:04,875 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - ===== Starting Test Setup for: com.erp.qa.purchasetest.PurchaseTest =====
+2025-10-11 10:16:10,110 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Browser launched and navigated to application.
+2025-10-11 10:16:10,633 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - All Page Objects initialized successfully.
+2025-10-11 10:16:10,669 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Starting verifyPurchaseLink test
+2025-10-11 10:16:13,173 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Login successful
+2025-10-11 10:16:33,628 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Purchase link clicked successfully
+2025-10-11 10:16:35,414 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Purchase Form link clicked successfully
+2025-10-11 10:16:41,430 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Purchase Form details filled successfully
+2025-10-11 10:16:43,441 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Ending verifyPurchaseLink test
+2025-10-11 10:16:44,484 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Browser closed successfully.
+2025-10-11 10:16:44,485 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - ✅ Test Passed: verifyPurchaseLink
+2025-10-11 10:17:59,633 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - ===== Starting Test Setup for: com.erp.qa.purchasetest.PurchaseTest =====
+2025-10-11 10:18:03,969 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Browser launched and navigated to application.
+2025-10-11 10:18:04,399 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - All Page Objects initialized successfully.
+2025-10-11 10:18:04,452 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Starting verifyPurchaseLink test
+2025-10-11 10:18:06,899 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Login successful
+2025-10-11 10:18:11,880 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Purchase link clicked successfully
+2025-10-11 10:18:14,386 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Purchase Form link clicked successfully
+2025-10-11 10:18:18,111 [main] INFO  com.erp.qa.purchasetest.PurchaseTest - Browser closed successfully.
+2025-10-11 10:18:18,113 [main] ERROR com.erp.qa.purchasetest.PurchaseTest - ❌ Test Failed: verifyPurchaseLink | stale element reference: stale element not found in the current frame (Session info: chrome=140.0.7339.210) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [8a0547860b6adeae95db8c4b49507a28, clickElement {id=f.B114130A33E62CAD7FC620724F356DCD.d.4757F1FE423D54760064A3825C46AA52.e.5540}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60351}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60351/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (8a0547860b6adeae95db8c4b49507a28)] -> xpath: //span[text()='MH 04 EY 7088']] Session ID: 8a0547860b6adeae95db8c4b49507a28
+2025-10-11 10:18:18,114 [main] WARN  com.erp.qa.purchasetest.PurchaseTest - ⚠️ Test Skipped: verifyPurchaseLink

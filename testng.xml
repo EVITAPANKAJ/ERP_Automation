@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.erp.qa.purchasetest.PurchaseListTest"/>
+      <class name="com.erp.qa.countertests.EquipmentRecoveryTest"/>
+      <class name="com.erp.qa.GodownTest.PartialPurchaseTest"/>
+      <class name="com.erp.qa.tvouttests.TvOutTest"/>
+      <class name="com.erp.qa.countertests.TainTest"/>
+      <class name="com.erp.qa.tvouttests.PartialTvOutListTest"/>
+      <class name="com.erp.qa.countertests.NameChangeTest"/>
+      <class name="com.erp.qa.countertests.SvTest"/>
+      <class name="com.erp.qa.purchasetest.OtherPurchaseTest"/>
+      <class name="com.erp.qa.purchasetest.PurchaseServiceListTest"/>
+      <class name="com.erp.qa.GodownTest.CommercialDeliveryTest"/>
+      <class name="com.erp.qa.GodownTest.AcceptedLoadTest"/>
+      <class name="com.erp.qa.countertests.ConnectionSwapTest"/>
+      <class name="com.erp.qa.test.RegistrationTest"/>
+      <class name="com.erp.qa.GodownTest.ERVTest"/>
+      <class name="com.erp.qa.countertests.DbcTest"/>
+      <class name="com.erp.qa.tvouttests.TvOutListTest"/>
+      <class name="com.erp.qa.purchasetest.PurchaseTest"/>
+      <class name="com.erp.qa.purchasetest.PurchaseServiceTest"/>
+      <class name="com.erp.qa.test.LoginTest"/>
+      <class name="com.erp.qa.purchasetest.OtherPurchaseListTest"/>
+      <class name="com.erp.qa.countertests.TvinTest"/>
+      <class name="com.erp.qa.tvouttests.PartialTvoutTest"/>
+      <class name="com.erp.qa.countertests.TaoutTest"/>
+      <class name="com.erp.qa.base.BaseTest"/>
+      <class name="com.erp.qa.GodownTest.UpdateERVTest"/>
+      <class name="com.erp.qa.GodownTest.UpdateAcceptedLoadTest"/>
+      <class name="com.erp.qa.countertests.BeyondSaleTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

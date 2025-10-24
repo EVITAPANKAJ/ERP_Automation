@@ -1,0 +1,228 @@
+2025-10-11 14:27:58,657 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 14:28:07,328 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 14:28:07,827 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 14:28:07,847 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 14:28:10,371 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 14:28:27,297 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 14:28:29,529 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 14:28:35,345 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 14:28:35,348 [main] ERROR com.erp.qa.countertests.TainTest - ❌ Test Failed: verifyCounterLink | element not interactable (Session info: chrome=140.0.7339.210) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [84de6639a07f5a420a32dd5c1ce47766, sendKeysToElement {value=[Ljava.lang.CharSequence;@378cfecf, id=f.7E4956A1333BA40C85418A3BE1D079C6.d.71FC425263306A5DBC455F1D28D031A8.e.3722}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60079}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60079/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (84de6639a07f5a420a32dd5c1ce47766)] -> id: txtPreDistributerCode] Session ID: 84de6639a07f5a420a32dd5c1ce47766
+2025-10-11 14:28:35,350 [main] WARN  com.erp.qa.countertests.TainTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 14:28:48,568 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 14:28:54,771 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 14:28:55,169 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 14:28:55,184 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 14:28:57,599 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 14:29:00,750 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 14:29:01,944 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 14:29:08,559 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 14:29:08,562 [main] ERROR com.erp.qa.countertests.TainTest - ❌ Test Failed: verifyCounterLink | element not interactable (Session info: chrome=140.0.7339.210) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [b2a49e5a37b9aef565aca1fff8c34682, sendKeysToElement {value=[Ljava.lang.CharSequence;@97d0c06, id=f.E57DA25556840EFFC301719FE18AE704.d.0FC89AE8444945DA7D41B6F31A027CDC.e.3398}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60148}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60148/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (b2a49e5a37b9aef565aca1fff8c34682)] -> id: txtPreDistributerCode] Session ID: b2a49e5a37b9aef565aca1fff8c34682
+2025-10-11 14:29:08,564 [main] WARN  com.erp.qa.countertests.TainTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 14:37:58,447 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 14:38:04,143 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 14:38:04,554 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 14:38:04,579 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 14:38:07,161 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 14:38:10,512 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 14:38:18,957 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 14:38:25,059 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 14:38:25,063 [main] ERROR com.erp.qa.countertests.TainTest - ❌ Test Failed: verifyCounterLink | element not interactable (Session info: chrome=140.0.7339.210) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [a390b15fe5910c24510c9434b31e4684, sendKeysToElement {id=f.748ED7C4F2FFCEAC29EA59EEC41CB6ED.d.2D5F84F7D7DB0C6047AB6288EA48056E.e.3581, value=[Ljava.lang.CharSequence;@173a6728}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50455}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50455/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (a390b15fe5910c24510c9434b31e4684)] -> id: txtPreConsumerNo] Session ID: a390b15fe5910c24510c9434b31e4684
+2025-10-11 14:38:25,065 [main] WARN  com.erp.qa.countertests.TainTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 14:51:38,658 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 14:51:44,565 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 14:51:45,058 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 14:51:45,085 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 14:51:47,662 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 14:52:09,208 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 14:52:10,458 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 14:52:17,629 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 14:52:17,632 [main] ERROR com.erp.qa.countertests.TainTest - ❌ Test Failed: verifyCounterLink | element not interactable (Session info: chrome=140.0.7339.210) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [7740902623a9b05a886f305cb61d2784, sendKeysToElement {id=f.4F9DBB80936AE2375D14DD264EBC2687.d.59CAAB39C3E0A28038001ABF4907F25A.e.3586, value=[Ljava.lang.CharSequence;@432f521f}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56191}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56191/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (7740902623a9b05a886f305cb61d2784)] -> id: txtNumberofCylinder] Session ID: 7740902623a9b05a886f305cb61d2784
+2025-10-11 14:52:17,639 [main] WARN  com.erp.qa.countertests.TainTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 15:02:53,702 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 15:02:57,633 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 15:02:58,180 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 15:02:58,203 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 15:03:00,644 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 15:03:04,375 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 15:03:06,107 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 15:04:07,968 [main] INFO  com.erp.qa.countertests.TainTest - Details filled successfully in TAIN form
+2025-10-11 15:04:09,979 [main] INFO  com.erp.qa.countertests.TainTest - Submit button clicked successfully
+2025-10-11 15:04:51,197 [main] INFO  com.erp.qa.countertests.TainTest - Bill number retrieved successfully: null
+2025-10-11 15:05:04,338 [main] INFO  com.erp.qa.countertests.TainTest - Back button clicked successfully
+2025-10-11 15:05:15,807 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 15:05:15,814 [main] ERROR com.erp.qa.countertests.TainTest - ❌ Test Failed: verifyCounterLink | no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Update TAIN']"} (Session info: chrome=140.0.7339.210) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [2bb360c40e2cefd631f5a8d124c38823, findElement {value=//a[normalize-space()='Update TAIN'], using=xpath}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54206}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54206/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 2bb360c40e2cefd631f5a8d124c38823
+2025-10-11 15:05:15,818 [main] WARN  com.erp.qa.countertests.TainTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 15:10:15,638 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 15:10:33,570 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 15:10:35,166 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 15:10:35,236 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 15:10:38,924 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 15:10:45,837 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 15:10:50,101 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 15:12:09,299 [main] INFO  com.erp.qa.countertests.TainTest - Details filled successfully in TAIN form
+2025-10-11 15:12:11,308 [main] INFO  com.erp.qa.countertests.TainTest - Submit button clicked successfully
+2025-10-11 15:12:53,460 [main] INFO  com.erp.qa.countertests.TainTest - Bill number retrieved successfully: null
+2025-10-11 15:13:07,815 [main] INFO  com.erp.qa.countertests.TainTest - Back button clicked successfully
+2025-10-11 15:13:49,511 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 15:13:49,519 [main] ERROR com.erp.qa.countertests.TainTest - ❌ Test Failed: verifyCounterLink | no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Update TAIN']"} (Session info: chrome=140.0.7339.210) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [a4ed4c47e61c94843e70bdf5844e8a2f, findElement {value=//a[normalize-space()='Update TAIN'], using=xpath}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64463}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64463/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: a4ed4c47e61c94843e70bdf5844e8a2f
+2025-10-11 15:13:49,522 [main] WARN  com.erp.qa.countertests.TainTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 15:14:31,110 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 15:14:48,136 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 15:14:50,552 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 15:14:50,633 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 15:14:54,062 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 15:15:01,748 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 15:15:05,723 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 15:16:19,857 [main] INFO  com.erp.qa.countertests.TainTest - Details filled successfully in TAIN form
+2025-10-11 15:16:21,931 [main] INFO  com.erp.qa.countertests.TainTest - Submit button clicked successfully
+2025-10-11 15:17:03,925 [main] INFO  com.erp.qa.countertests.TainTest - Bill number retrieved successfully: null
+2025-10-11 15:17:04,539 [main] INFO  com.erp.qa.countertests.TainTest - Back button clicked successfully
+2025-10-11 15:17:16,041 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 15:17:16,047 [main] ERROR com.erp.qa.countertests.TainTest - ❌ Test Failed: verifyCounterLink | no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Update TAIN']"} (Session info: chrome=140.0.7339.210) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [0abe6e12f3e2979e80bf6d5e1891cd7b, findElement {using=xpath, value=//a[normalize-space()='Update TAIN']}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58452}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58452/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 0abe6e12f3e2979e80bf6d5e1891cd7b
+2025-10-11 15:17:16,052 [main] WARN  com.erp.qa.countertests.TainTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 15:23:15,400 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 15:23:33,300 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 15:23:35,563 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 15:23:35,652 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 15:23:39,238 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 15:24:05,233 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 15:24:08,115 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 15:24:29,347 [main] INFO  com.erp.qa.countertests.TainTest - Details filled successfully in TAIN form
+2025-10-11 15:24:31,358 [main] INFO  com.erp.qa.countertests.TainTest - Submit button clicked successfully
+2025-10-11 15:24:31,588 [main] INFO  com.erp.qa.countertests.TainTest - Bill number retrieved successfully: 2500026
+2025-10-11 15:24:32,210 [main] INFO  com.erp.qa.countertests.TainTest - Back button clicked successfully
+2025-10-11 15:24:34,568 [main] INFO  com.erp.qa.countertests.TainTest - Update TAIN link clicked successfully
+2025-10-11 15:24:56,891 [main] INFO  com.erp.qa.countertests.TainTest - MDL Document Number entered successfully: null
+2025-10-11 15:24:57,397 [main] INFO  com.erp.qa.countertests.TainTest - MDL Get button clicked successfully
+2025-10-11 15:25:01,769 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 15:25:01,773 [main] INFO  com.erp.qa.countertests.TainTest - ✅ Test Passed: verifyCounterLink
+2025-10-11 15:35:43,260 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 15:35:50,523 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 15:35:51,156 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 15:35:51,189 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 15:35:53,639 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 15:36:04,587 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 15:36:06,383 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 15:36:10,889 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 15:36:10,891 [main] ERROR com.erp.qa.countertests.TainTest - ❌ Test Failed: verifyCounterLink | element not interactable (Session info: chrome=140.0.7339.210) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [0c84b2217cd3c1b560796dff5dd039fc, sendKeysToElement {value=[Ljava.lang.CharSequence;@3968bc60, id=f.432C395A274A41A0C76F16153342AA74.d.F2D7A60816A8A46FEF9901C0AED464AF.e.3564}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54776}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54776/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (0c84b2217cd3c1b560796dff5dd039fc)] -> id: txtAddress] Session ID: 0c84b2217cd3c1b560796dff5dd039fc
+2025-10-11 15:36:10,893 [main] WARN  com.erp.qa.countertests.TainTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 15:36:32,442 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 15:36:38,003 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 15:36:38,269 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 15:36:38,298 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 15:36:40,811 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 15:36:44,615 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 15:36:46,617 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 15:36:56,888 [main] INFO  com.erp.qa.countertests.TainTest - Details filled successfully in TAIN form
+2025-10-11 15:36:58,904 [main] INFO  com.erp.qa.countertests.TainTest - Submit button clicked successfully
+2025-10-11 15:36:59,031 [main] INFO  com.erp.qa.countertests.TainTest - Bill number retrieved successfully: 2500027
+2025-10-11 15:36:59,231 [main] INFO  com.erp.qa.countertests.TainTest - Back button clicked successfully
+2025-10-11 15:37:01,470 [main] INFO  com.erp.qa.countertests.TainTest - Update TAIN link clicked successfully
+2025-10-11 15:37:22,338 [main] INFO  com.erp.qa.countertests.TainTest - MDL Document Number entered successfully: null
+2025-10-11 15:37:22,524 [main] INFO  com.erp.qa.countertests.TainTest - MDL Get button clicked successfully
+2025-10-11 15:37:23,017 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 15:37:23,017 [main] INFO  com.erp.qa.countertests.TainTest - ✅ Test Passed: verifyCounterLink
+2025-10-11 15:38:09,924 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 15:38:15,264 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 15:38:15,826 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 15:38:15,847 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 15:38:18,413 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 15:38:22,294 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 15:38:23,764 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 15:38:29,134 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 15:38:29,137 [main] ERROR com.erp.qa.countertests.TainTest - ❌ Test Failed: verifyCounterLink | unexpected alert open: {Alert text : This Consumer is Already Exists!!} (Session info: chrome=140.0.7339.210): This Consumer is Already Exists!! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [43c3302944908a33a4161fcf626b62d3, findElement {using=id, value=txtAddress}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55699}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55699/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 43c3302944908a33a4161fcf626b62d3
+2025-10-11 15:38:29,138 [main] WARN  com.erp.qa.countertests.TainTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 15:38:43,145 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 15:38:48,278 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 15:38:48,741 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 15:38:48,776 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 15:38:51,248 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 15:39:02,044 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 15:39:04,536 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 15:39:12,461 [main] INFO  com.erp.qa.countertests.TainTest - Details filled successfully in TAIN form
+2025-10-11 15:39:14,474 [main] INFO  com.erp.qa.countertests.TainTest - Submit button clicked successfully
+2025-10-11 15:39:14,550 [main] INFO  com.erp.qa.countertests.TainTest - Bill number retrieved successfully: 2500028
+2025-10-11 15:39:14,793 [main] INFO  com.erp.qa.countertests.TainTest - Back button clicked successfully
+2025-10-11 15:39:16,428 [main] INFO  com.erp.qa.countertests.TainTest - Update TAIN link clicked successfully
+2025-10-11 15:39:37,422 [main] INFO  com.erp.qa.countertests.TainTest - MDL Document Number entered successfully: null
+2025-10-11 15:39:37,527 [main] INFO  com.erp.qa.countertests.TainTest - MDL Get button clicked successfully
+2025-10-11 15:39:38,038 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 15:39:38,039 [main] INFO  com.erp.qa.countertests.TainTest - ✅ Test Passed: verifyCounterLink
+2025-10-11 15:42:27,778 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 15:42:33,431 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 15:42:34,060 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 15:42:34,093 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 15:42:36,568 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 15:42:42,424 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 15:42:45,238 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 15:43:04,154 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 15:43:04,158 [main] ERROR com.erp.qa.countertests.TainTest - ❌ Test Failed: verifyCounterLink | no such element: Unable to locate element: {"method":"css selector","selector":"#btnMDLGet"} (Session info: chrome=140.0.7339.210) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [c91a37a9091273819ab1d3d4f54e1936, findElement {using=id, value=btnMDLGet}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58386}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58386/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: c91a37a9091273819ab1d3d4f54e1936
+2025-10-11 15:43:04,160 [main] WARN  com.erp.qa.countertests.TainTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 15:49:04,251 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 15:49:09,986 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 15:49:10,508 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 15:49:10,525 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 15:49:13,001 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 15:49:27,205 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 15:49:28,787 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 15:49:36,339 [main] INFO  com.erp.qa.countertests.TainTest - Details filled successfully in TAIN form
+2025-10-11 15:49:38,351 [main] INFO  com.erp.qa.countertests.TainTest - Submit button clicked successfully
+2025-10-11 15:49:38,510 [main] INFO  com.erp.qa.countertests.TainTest - Bill number retrieved successfully: 2500030
+2025-10-11 15:49:38,733 [main] INFO  com.erp.qa.countertests.TainTest - Back button clicked successfully
+2025-10-11 15:49:40,422 [main] INFO  com.erp.qa.countertests.TainTest - Update TAIN link clicked successfully
+2025-10-11 15:49:56,615 [main] INFO  com.erp.qa.countertests.TainTest - MDL Document Number entered successfully: null
+2025-10-11 15:49:57,026 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 15:49:57,028 [main] ERROR com.erp.qa.countertests.TainTest - ❌ Test Failed: verifyCounterLink | unexpected alert open: {Alert text : Are you sure you want to Update?} (Session info: chrome=140.0.7339.210): Are you sure you want to Update? Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [f09288d86d330cd59803bcc3fbe5fdca, findElement {value=btnMDLGet, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59287}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59287/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: f09288d86d330cd59803bcc3fbe5fdca
+2025-10-11 15:49:57,030 [main] WARN  com.erp.qa.countertests.TainTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 15:52:20,077 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 15:52:28,290 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 15:52:28,799 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 15:52:28,817 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 15:52:31,334 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 15:52:37,518 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 15:52:39,581 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 15:52:44,678 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 15:52:44,681 [main] ERROR com.erp.qa.countertests.TainTest - ❌ Test Failed: verifyCounterLink | unexpected alert open: {Alert text : This Consumer is Already Exists!!} (Session info: chrome=140.0.7339.210): This Consumer is Already Exists!! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [7d73b7d2edef606029ce69eafa19101b, findElement {using=id, value=txtAddress}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60237}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60237/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 7d73b7d2edef606029ce69eafa19101b
+2025-10-11 15:52:44,683 [main] WARN  com.erp.qa.countertests.TainTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 15:53:22,102 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-11 15:53:28,719 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-11 15:53:29,223 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-11 15:53:29,253 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-11 15:53:31,738 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-11 15:53:46,608 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-11 15:53:48,479 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-11 15:53:56,181 [main] INFO  com.erp.qa.countertests.TainTest - Details filled successfully in TAIN form
+2025-10-11 15:53:58,193 [main] INFO  com.erp.qa.countertests.TainTest - Submit button clicked successfully
+2025-10-11 15:53:58,322 [main] INFO  com.erp.qa.countertests.TainTest - Bill number retrieved successfully: 2500031
+2025-10-11 15:53:58,553 [main] INFO  com.erp.qa.countertests.TainTest - Back button clicked successfully
+2025-10-11 15:54:00,506 [main] INFO  com.erp.qa.countertests.TainTest - Update TAIN link clicked successfully
+2025-10-11 15:54:21,463 [main] INFO  com.erp.qa.countertests.TainTest - MDL Document Number entered successfully: null
+2025-10-11 15:54:21,703 [main] INFO  com.erp.qa.countertests.TainTest - MDL Get button clicked successfully
+2025-10-11 15:54:37,374 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-11 15:54:37,375 [main] INFO  com.erp.qa.countertests.TainTest - ✅ Test Passed: verifyCounterLink
+2025-10-14 09:47:05,005 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-14 09:47:17,059 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-14 09:47:18,285 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-14 09:47:18,299 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-14 09:47:20,802 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-14 09:47:26,633 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-14 09:47:29,266 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-14 09:47:33,973 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-14 09:47:33,977 [main] ERROR com.erp.qa.countertests.TainTest - ❌ Test Failed: verifyCounterLink | unexpected alert open: {Alert text : This Consumer is Already Exists!!} (Session info: chrome=141.0.7390.66): This Consumer is Already Exists!! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [3f08cd4993d760b2c63d6e8912e15f87, findElement {using=id, value=txtAddress}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62747}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62747/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 3f08cd4993d760b2c63d6e8912e15f87
+2025-10-14 09:47:33,979 [main] WARN  com.erp.qa.countertests.TainTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-14 09:47:55,546 [main] INFO  com.erp.qa.countertests.TainTest - ===== Starting Test Setup for: com.erp.qa.countertests.TainTest =====
+2025-10-14 09:48:01,682 [main] INFO  com.erp.qa.countertests.TainTest - Browser launched and navigated to application.
+2025-10-14 09:48:02,273 [main] INFO  com.erp.qa.countertests.TainTest - All Page Objects initialized successfully.
+2025-10-14 09:48:02,321 [main] INFO  com.erp.qa.countertests.TainTest - Starting test: verifyCounterLink
+2025-10-14 09:48:04,873 [main] INFO  com.erp.qa.countertests.TainTest - Login successful
+2025-10-14 09:48:19,603 [main] INFO  com.erp.qa.countertests.TainTest - Counter Sales link clicked successfully
+2025-10-14 09:48:21,355 [main] INFO  com.erp.qa.countertests.TainTest - TAIN link clicked successfully
+2025-10-14 09:48:31,223 [main] INFO  com.erp.qa.countertests.TainTest - Details filled successfully in TAIN form
+2025-10-14 09:48:33,241 [main] INFO  com.erp.qa.countertests.TainTest - Submit button clicked successfully
+2025-10-14 09:48:33,322 [main] INFO  com.erp.qa.countertests.TainTest - Bill number retrieved successfully: 2500032
+2025-10-14 09:48:33,657 [main] INFO  com.erp.qa.countertests.TainTest - Back button clicked successfully
+2025-10-14 09:48:34,948 [main] INFO  com.erp.qa.countertests.TainTest - Update TAIN link clicked successfully
+2025-10-14 09:48:55,923 [main] INFO  com.erp.qa.countertests.TainTest - MDL Document Number entered successfully: null
+2025-10-14 09:48:56,001 [main] INFO  com.erp.qa.countertests.TainTest - MDL Get button clicked successfully
+2025-10-14 09:49:11,654 [main] INFO  com.erp.qa.countertests.TainTest - Browser closed successfully.
+2025-10-14 09:49:11,656 [main] INFO  com.erp.qa.countertests.TainTest - ✅ Test Passed: verifyCounterLink

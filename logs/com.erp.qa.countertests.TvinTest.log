@@ -1,0 +1,45 @@
+2025-10-14 10:26:36,446 [main] INFO  com.erp.qa.countertests.TvinTest - ===== Starting Test Setup for: com.erp.qa.countertests.TvinTest =====
+2025-10-14 10:26:50,602 [main] INFO  com.erp.qa.countertests.TvinTest - Browser launched and navigated to application.
+2025-10-14 10:26:51,973 [main] INFO  com.erp.qa.countertests.TvinTest - All Page Objects initialized successfully.
+2025-10-14 10:26:52,053 [main] INFO  com.erp.qa.countertests.TvinTest - Starting test: verifyCounterLink
+2025-10-14 10:26:55,592 [main] INFO  com.erp.qa.countertests.TvinTest - Login successful.
+2025-10-14 10:27:10,425 [main] INFO  com.erp.qa.countertests.TvinTest - Counter Sale link clicked successfully.
+2025-10-14 10:27:14,085 [main] INFO  com.erp.qa.countertests.TvinTest - TVIN link clicked successfully.
+2025-10-14 10:27:25,058 [main] INFO  com.erp.qa.countertests.TvinTest - Form submitted successfully.
+2025-10-14 10:27:31,683 [main] INFO  com.erp.qa.countertests.TvinTest - Browser closed successfully.
+2025-10-14 10:27:31,685 [main] INFO  com.erp.qa.countertests.TvinTest - ✅ Test Passed: verifyCounterLink
+2025-10-14 10:44:52,134 [main] INFO  com.erp.qa.countertests.TvinTest - ===== Starting Test Setup for: com.erp.qa.countertests.TvinTest =====
+2025-10-14 10:44:58,825 [main] INFO  com.erp.qa.countertests.TvinTest - Browser launched and navigated to application.
+2025-10-14 10:44:59,351 [main] INFO  com.erp.qa.countertests.TvinTest - All Page Objects initialized successfully.
+2025-10-14 10:44:59,365 [main] INFO  com.erp.qa.countertests.TvinTest - Starting test: verifyCounterLink
+2025-10-14 10:45:01,687 [main] INFO  com.erp.qa.countertests.TvinTest - Login successful.
+2025-10-14 10:45:07,542 [main] INFO  com.erp.qa.countertests.TvinTest - Counter Sale link clicked successfully.
+2025-10-14 10:45:16,326 [main] INFO  com.erp.qa.countertests.TvinTest - TVIN link clicked successfully.
+2025-10-14 10:45:17,975 [main] INFO  com.erp.qa.countertests.TvinTest - Browser closed successfully.
+2025-10-14 10:45:17,979 [main] ERROR com.erp.qa.countertests.TvinTest - ❌ Test Failed: verifyCounterLink | unexpected alert open: {Alert text : Error Occurred } (Session info: chrome=141.0.7390.66): Error Occurred Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [c594e5d5f9b181fbadf77b8117b2f137, findElement {value=txtInvoiceNo, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53331}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53331/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: c594e5d5f9b181fbadf77b8117b2f137
+2025-10-14 10:45:17,981 [main] WARN  com.erp.qa.countertests.TvinTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-14 10:53:49,760 [main] INFO  com.erp.qa.countertests.TvinTest - ===== Starting Test Setup for: com.erp.qa.countertests.TvinTest =====
+2025-10-14 10:54:24,651 [main] INFO  com.erp.qa.countertests.TvinTest - Browser launched and navigated to application.
+2025-10-14 10:54:24,825 [main] INFO  com.erp.qa.countertests.TvinTest - All Page Objects initialized successfully.
+2025-10-14 10:54:24,843 [main] INFO  com.erp.qa.countertests.TvinTest - Starting test: verifyCounterLink
+2025-10-14 10:54:27,208 [main] INFO  com.erp.qa.countertests.TvinTest - Login successful.
+2025-10-14 10:54:32,275 [main] INFO  com.erp.qa.countertests.TvinTest - Counter Sale link clicked successfully.
+2025-10-14 10:54:37,488 [main] INFO  com.erp.qa.countertests.TvinTest - TVIN link clicked successfully.
+2025-10-14 10:54:39,079 [main] INFO  com.erp.qa.countertests.TvinTest - Browser closed successfully.
+2025-10-14 10:54:39,082 [main] ERROR com.erp.qa.countertests.TvinTest - ❌ Test Failed: verifyCounterLink | Unable to find element with locator By.id: txtInvoiceNo For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: driver.version: RemoteWebDriver
+2025-10-14 10:54:39,084 [main] WARN  com.erp.qa.countertests.TvinTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-14 10:55:16,789 [main] INFO  com.erp.qa.countertests.TvinTest - ===== Starting Test Setup for: com.erp.qa.countertests.TvinTest =====
+2025-10-14 10:55:22,939 [main] INFO  com.erp.qa.countertests.TvinTest - Browser launched and navigated to application.
+2025-10-14 10:55:23,180 [main] INFO  com.erp.qa.countertests.TvinTest - All Page Objects initialized successfully.
+2025-10-14 10:55:23,201 [main] INFO  com.erp.qa.countertests.TvinTest - Starting test: verifyCounterLink
+2025-10-14 10:55:25,621 [main] INFO  com.erp.qa.countertests.TvinTest - Login successful.
+2025-10-14 10:55:29,004 [main] INFO  com.erp.qa.countertests.TvinTest - Counter Sale link clicked successfully.
+2025-10-14 10:55:30,914 [main] INFO  com.erp.qa.countertests.TvinTest - TVIN link clicked successfully.
+2025-10-14 10:55:40,766 [main] INFO  com.erp.qa.countertests.TvinTest - Details filled successfully.
+2025-10-14 10:55:43,983 [main] INFO  com.erp.qa.countertests.TvinTest - Back button clicked successfully.
+2025-10-14 10:55:45,334 [main] INFO  com.erp.qa.countertests.TvinTest - Alert accepted successfully.
+2025-10-14 10:55:45,776 [main] INFO  com.erp.qa.countertests.TvinTest - Update New Connection link clicked successfully.
+2025-10-14 10:55:46,117 [main] INFO  com.erp.qa.countertests.TvinTest - MDL Document Number entered successfully: 12345
+2025-10-14 10:55:46,411 [main] INFO  com.erp.qa.countertests.TvinTest - MDL Get button clicked successfully.
+2025-10-14 10:55:47,027 [main] INFO  com.erp.qa.countertests.TvinTest - Browser closed successfully.
+2025-10-14 10:55:47,028 [main] INFO  com.erp.qa.countertests.TvinTest - ✅ Test Passed: verifyCounterLink

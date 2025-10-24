@@ -1,0 +1,106 @@
+2025-10-15 15:48:11,435 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.CommercialDeliveryTest =====
+2025-10-15 15:48:20,988 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser launched and navigated to application.
+2025-10-15 15:48:21,993 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - All Page Objects initialized successfully.
+2025-10-15 15:48:22,022 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-15 15:48:24,797 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-15 15:48:46,713 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-15 15:49:03,026 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser closed successfully.
+2025-10-15 15:49:03,030 [main] ERROR com.erp.qa.GodownTest.CommercialDeliveryTest - ❌ Test Failed: verifyCommercialDeliveryTest | element not interactable (Session info: chrome=141.0.7390.66) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [029d460c6649e8c52490d553f3b4c4c5, sendKeysToElement {value=[Ljava.lang.CharSequence;@46963479, id=f.E6028DA7BEAF2A167F9AA0F7353C91BD.d.B7A2CE89DA4C56501526743C2D1887B5.e.3740}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62072}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62072/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (029d460c6649e8c52490d553f3b4c4c5)] -> xpath: //input[@aria-label='Search']] Session ID: 029d460c6649e8c52490d553f3b4c4c5
+2025-10-15 15:49:03,033 [main] WARN  com.erp.qa.GodownTest.CommercialDeliveryTest - ⚠️ Test Skipped: verifyCommercialDeliveryTest
+2025-10-15 15:51:17,327 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.CommercialDeliveryTest =====
+2025-10-15 15:51:26,502 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser launched and navigated to application.
+2025-10-15 15:51:26,988 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - All Page Objects initialized successfully.
+2025-10-15 15:51:27,023 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-15 15:51:29,891 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-15 15:51:36,619 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-15 15:51:50,675 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser closed successfully.
+2025-10-15 15:51:50,676 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-15 15:52:41,060 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.CommercialDeliveryTest =====
+2025-10-15 15:52:49,628 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser launched and navigated to application.
+2025-10-15 15:52:50,314 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - All Page Objects initialized successfully.
+2025-10-15 15:52:50,346 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-15 15:52:53,067 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-15 15:52:57,929 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-15 15:53:14,832 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser closed successfully.
+2025-10-15 15:53:14,834 [main] ERROR com.erp.qa.GodownTest.CommercialDeliveryTest - ❌ Test Failed: verifyCommercialDeliveryTest | element not interactable (Session info: chrome=141.0.7390.66) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [7b0446649e3b84f53f1f8d5977efef58, sendKeysToElement {value=[Ljava.lang.CharSequence;@3dffc764, id=f.720DA33BB4BFB52A700047DED5CAFA90.d.47B2C28B06F463894842FABB060A320B.e.3767}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55745}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55745/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (7b0446649e3b84f53f1f8d5977efef58)] -> xpath: //input[@aria-label='Search']] Session ID: 7b0446649e3b84f53f1f8d5977efef58
+2025-10-15 15:53:14,837 [main] WARN  com.erp.qa.GodownTest.CommercialDeliveryTest - ⚠️ Test Skipped: verifyCommercialDeliveryTest
+2025-10-15 15:59:54,912 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.CommercialDeliveryTest =====
+2025-10-15 16:00:03,975 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser launched and navigated to application.
+2025-10-15 16:00:04,790 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - All Page Objects initialized successfully.
+2025-10-15 16:00:04,815 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-15 16:00:07,632 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-15 16:00:14,597 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-15 16:00:21,684 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser closed successfully.
+2025-10-15 16:00:21,685 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-15 16:00:34,213 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.CommercialDeliveryTest =====
+2025-10-15 16:00:41,682 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser launched and navigated to application.
+2025-10-15 16:00:42,484 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - All Page Objects initialized successfully.
+2025-10-15 16:00:42,539 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-15 16:00:45,671 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-15 16:00:49,542 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-15 16:00:57,271 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser closed successfully.
+2025-10-15 16:00:57,273 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-15 16:02:49,327 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.CommercialDeliveryTest =====
+2025-10-15 16:02:56,412 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser launched and navigated to application.
+2025-10-15 16:02:57,257 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - All Page Objects initialized successfully.
+2025-10-15 16:02:57,299 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-15 16:03:00,123 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-15 16:03:05,569 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-15 16:03:12,660 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser closed successfully.
+2025-10-15 16:03:12,661 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-15 16:07:07,014 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.CommercialDeliveryTest =====
+2025-10-15 16:07:31,022 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser launched and navigated to application.
+2025-10-15 16:07:33,027 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - All Page Objects initialized successfully.
+2025-10-15 16:07:33,162 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-15 16:07:37,562 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-15 16:07:45,109 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-15 16:08:02,337 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser closed successfully.
+2025-10-15 16:08:02,339 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-15 18:08:56,276 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.CommercialDeliveryTest =====
+2025-10-15 18:09:06,184 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser launched and navigated to application.
+2025-10-15 18:09:06,511 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - All Page Objects initialized successfully.
+2025-10-15 18:09:06,531 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-15 18:09:08,865 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-15 18:09:14,624 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-15 18:09:23,985 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser closed successfully.
+2025-10-15 18:09:23,988 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-15 18:10:54,485 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.CommercialDeliveryTest =====
+2025-10-15 18:11:00,333 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser launched and navigated to application.
+2025-10-15 18:11:00,872 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - All Page Objects initialized successfully.
+2025-10-15 18:11:00,885 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-15 18:11:03,228 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-15 18:11:10,771 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-15 18:11:20,578 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser closed successfully.
+2025-10-15 18:11:20,579 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-15 18:12:09,180 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.CommercialDeliveryTest =====
+2025-10-15 18:12:14,964 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser launched and navigated to application.
+2025-10-15 18:12:15,569 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - All Page Objects initialized successfully.
+2025-10-15 18:12:15,599 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-15 18:12:18,101 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-15 18:12:23,538 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-15 18:12:33,058 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser closed successfully.
+2025-10-15 18:12:33,059 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-15 18:13:11,018 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.CommercialDeliveryTest =====
+2025-10-15 18:13:17,073 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser launched and navigated to application.
+2025-10-15 18:13:17,488 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - All Page Objects initialized successfully.
+2025-10-15 18:13:17,509 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-15 18:13:20,014 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-15 18:13:23,693 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-15 18:13:32,770 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser closed successfully.
+2025-10-15 18:13:32,770 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-15 18:15:08,089 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.CommercialDeliveryTest =====
+2025-10-15 18:15:14,361 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser launched and navigated to application.
+2025-10-15 18:15:14,886 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - All Page Objects initialized successfully.
+2025-10-15 18:15:14,909 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-15 18:15:17,348 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-15 18:15:22,367 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-15 18:15:32,716 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser closed successfully.
+2025-10-15 18:15:32,717 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-15 18:16:04,828 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.CommercialDeliveryTest =====
+2025-10-15 18:16:22,749 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser launched and navigated to application.
+2025-10-15 18:16:23,737 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - All Page Objects initialized successfully.
+2025-10-15 18:16:23,820 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-15 18:16:27,692 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-15 18:16:33,955 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-15 18:16:54,755 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Browser closed successfully.
+2025-10-15 18:16:54,761 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest

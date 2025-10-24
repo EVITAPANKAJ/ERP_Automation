@@ -1,0 +1,35 @@
+2025-10-23 12:57:30,982 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - ===== Starting Test Setup for: com.erp.qa.commsaletests.CashCollectionTest =====
+2025-10-23 12:57:38,279 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - Browser launched and navigated to application.
+2025-10-23 12:57:39,518 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - All Page Objects initialized successfully.
+2025-10-23 12:57:39,540 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - ********** Starting test case: verifyCounterLink **********
+2025-10-23 12:57:42,435 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - Login successful
+2025-10-23 12:58:03,044 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - Browser closed successfully.
+2025-10-23 12:58:03,045 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - ✅ Test Passed: verifyCommSaleLink
+2025-10-23 13:03:03,474 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - ===== Starting Test Setup for: com.erp.qa.commsaletests.CashCollectionTest =====
+2025-10-23 13:03:10,440 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - Browser launched and navigated to application.
+2025-10-23 13:03:10,755 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - All Page Objects initialized successfully.
+2025-10-23 13:03:10,786 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - ********** Starting test case: verifyCounterLink **********
+2025-10-23 13:03:13,281 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - Login successful
+2025-10-23 13:03:26,380 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - Browser closed successfully.
+2025-10-23 13:03:26,380 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - ✅ Test Passed: verifyCommSaleLink
+2025-10-23 14:01:38,195 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - ===== Starting Test Setup for: com.erp.qa.commsaletests.CashCollectionTest =====
+2025-10-23 14:01:44,761 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - Browser launched and navigated to application.
+2025-10-23 14:01:46,041 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - All Page Objects initialized successfully.
+2025-10-23 14:01:46,067 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - ********** Starting test case: verifyCounterLink **********
+2025-10-23 14:01:48,413 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - Login successful
+2025-10-23 14:02:03,877 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - Browser closed successfully.
+2025-10-23 14:02:03,880 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - ✅ Test Passed: verifyCommSaleLink
+2025-10-23 14:02:30,917 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - ===== Starting Test Setup for: com.erp.qa.commsaletests.CashCollectionTest =====
+2025-10-23 14:02:37,971 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - Browser launched and navigated to application.
+2025-10-23 14:02:38,303 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - All Page Objects initialized successfully.
+2025-10-23 14:02:38,323 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - ********** Starting test case: verifyCounterLink **********
+2025-10-23 14:02:40,727 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - Login successful
+2025-10-23 14:02:54,517 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - Browser closed successfully.
+2025-10-23 14:02:54,518 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - ✅ Test Passed: verifyCommSaleLink
+2025-10-23 14:03:54,870 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - ===== Starting Test Setup for: com.erp.qa.commsaletests.CashCollectionTest =====
+2025-10-23 14:04:01,137 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - Browser launched and navigated to application.
+2025-10-23 14:04:01,718 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - All Page Objects initialized successfully.
+2025-10-23 14:04:01,745 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - ********** Starting test case: verifyCounterLink **********
+2025-10-23 14:04:04,220 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - Login successful
+2025-10-23 14:04:19,569 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - Browser closed successfully.
+2025-10-23 14:04:19,570 [main] INFO  com.erp.qa.commsaletests.CashCollectionTest - ✅ Test Passed: verifyCommSaleLink

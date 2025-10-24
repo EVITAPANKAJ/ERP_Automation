@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn">
+    <Properties>
+        <Property name="basePath">./logs</Property>
+    </Properties>
+
+    <Appenders>
+        <!-- RoutingAppender with runtime lookup ($${...}) -->
+        <Routing name="RoutingAppender">
+            <Routes pattern="${ctx:testClass}">
+				<Route>
+					<File name="File-${ctx:testClass}"
+						fileName="./logs/${ctx:testClass}.log" append="true">
+						<PatternLayout>
+							<Pattern>%d [%t] %-5level %logger{36} - %msg%n</Pattern>
+						</PatternLayout>
+					</File>
+				</Route>
+			</Routes>
+        </Routing>
+
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+    </Appenders>
+
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="RoutingAppender"/>
+        </Root>
+    </Loggers>
+</Configuration>

@@ -1,0 +1,319 @@
+2025-10-14 16:00:14,802 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 16:00:14,890 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 16:00:51,474 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 16:00:51,898 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 16:00:58,806 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 16:00:58,806 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 16:00:58,938 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 16:00:58,938 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 16:01:03,566 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 16:01:06,819 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 16:01:14,709 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 16:01:19,336 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 16:01:20,157 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 16:01:24,511 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 16:01:30,548 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Searched for invoice 1003
+2025-10-14 16:01:33,707 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Searched for invoice 1003
+2025-10-14 16:01:38,531 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 16:01:38,536 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ✅ Test Passed: verifyUpdateAcceptedLoadTest
+2025-10-14 16:01:39,932 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 16:01:39,934 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ✅ Test Passed: verifyUpdateAcceptedLoadTest
+2025-10-14 16:02:28,647 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 16:02:57,865 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 16:03:01,034 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 16:03:01,120 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 16:03:05,913 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 16:03:24,822 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 16:03:32,686 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 16:03:40,390 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Searched for invoice 1003
+2025-10-14 16:03:49,667 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 16:03:49,669 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ✅ Test Passed: verifyUpdateAcceptedLoadTest
+2025-10-14 16:04:25,697 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 16:04:46,898 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 16:04:48,968 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 16:04:49,101 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 16:04:53,198 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 16:05:02,992 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 16:05:09,508 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 16:05:17,586 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Searched for invoice 1003
+2025-10-14 16:05:22,798 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 16:05:22,801 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ✅ Test Passed: verifyUpdateAcceptedLoadTest
+2025-10-14 16:45:31,728 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 16:46:06,028 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 16:46:09,384 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 16:46:09,444 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 16:46:12,818 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 16:46:19,023 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 16:46:23,204 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 16:47:03,564 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 16:47:03,576 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | no such element: Unable to locate element: {"method":"xpath","selector":"//input[@role='textbox']"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [6fed0ac2218cec439deeefff0ba0de46, findElement {value=//input[@role='textbox'], using=xpath}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56554}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56554/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 6fed0ac2218cec439deeefff0ba0de46
+2025-10-14 16:47:03,593 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-14 16:51:55,164 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 16:52:30,289 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 16:52:31,780 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 16:52:31,870 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 16:52:35,340 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 16:52:45,351 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 16:52:49,769 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 16:53:40,649 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 16:53:40,656 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='imgbtnVLAdd']"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [f43452d021302e6448719d711a28f8b4, findElement {value=//input[@id='imgbtnVLAdd'], using=xpath}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55904}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55904/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: f43452d021302e6448719d711a28f8b4
+2025-10-14 16:53:40,663 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-14 16:59:37,301 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 17:00:01,406 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 17:00:03,056 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 17:00:03,164 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 17:00:07,137 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 17:00:24,908 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 17:00:29,235 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 17:01:02,062 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 17:01:02,071 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='imgbtnVLAdd']"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [f30519135f7b52e517b7e5899adac79c, findElement {value=//input[@id='imgbtnVLAdd'], using=xpath}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59878}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59878/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: f30519135f7b52e517b7e5899adac79c
+2025-10-14 17:01:02,077 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-14 17:02:02,305 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 17:02:24,707 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 17:02:25,776 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 17:02:25,834 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 17:02:29,429 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 17:02:37,278 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 17:02:41,231 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 17:03:09,347 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 17:03:09,349 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ✅ Test Passed: verifyUpdateAcceptedLoadTest
+2025-10-14 17:05:17,102 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 17:05:40,848 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 17:05:43,271 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 17:05:43,397 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 17:05:47,129 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 17:06:13,991 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 17:06:18,242 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 17:06:42,458 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 17:06:42,461 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ✅ Test Passed: verifyUpdateAcceptedLoadTest
+2025-10-14 17:25:35,613 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 17:25:55,026 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 17:25:56,172 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 17:25:56,232 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 17:25:59,776 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 17:26:17,397 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 17:26:23,027 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 17:26:36,139 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 17:26:36,143 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | unexpected alert open: {Alert text : Duplicate Product!} (Session info: chrome=141.0.7390.66): Duplicate Product! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [53ea172f31784a95982bb767d948b01a, findElement {using=id, value=txtQuantity}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57528}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57528/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 53ea172f31784a95982bb767d948b01a
+2025-10-14 17:26:36,148 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-14 17:28:11,609 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 17:28:26,625 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 17:28:29,186 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 17:28:29,333 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 17:28:33,011 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 17:28:44,221 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 17:28:49,939 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 17:29:10,614 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 17:29:10,622 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | unexpected alert open: {Alert text : Duplicate Product!} (Session info: chrome=141.0.7390.66): Duplicate Product! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [4879d212783d88644e35c5aeb8b66f39, findElement {using=id, value=txtQuantity_1}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56974}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56974/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 4879d212783d88644e35c5aeb8b66f39
+2025-10-14 17:29:10,626 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-14 17:30:15,734 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 17:30:30,668 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 17:30:32,309 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 17:30:32,396 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 17:30:36,098 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 17:30:45,537 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 17:30:51,713 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 17:31:12,428 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 17:31:12,440 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | unexpected alert open: {Alert text : Duplicate Product!} (Session info: chrome=141.0.7390.66): Duplicate Product! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [f78be554119f27f807b8297eb0478d91, findElement {using=id, value=txtQuantity_1}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56465}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56465/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: f78be554119f27f807b8297eb0478d91
+2025-10-14 17:31:12,447 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-14 17:34:39,310 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 17:35:06,706 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 17:35:08,854 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 17:35:08,950 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 17:35:13,353 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 17:35:19,636 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 17:35:24,527 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 17:35:48,184 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Filled the form with provided data
+2025-10-14 17:35:49,229 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Submit button
+2025-10-14 17:35:50,429 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Accepted all alerts
+2025-10-14 17:35:56,392 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 17:35:56,395 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ✅ Test Passed: verifyUpdateAcceptedLoadTest
+2025-10-14 17:37:59,010 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 17:38:23,291 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 17:38:24,361 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 17:38:24,476 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 17:38:28,199 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 17:38:35,800 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 17:38:41,865 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 17:39:04,942 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Filled the form with provided data
+2025-10-14 17:39:06,197 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Submit button
+2025-10-14 17:39:07,196 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Accepted all alerts
+2025-10-14 17:39:11,510 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 17:39:11,519 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ✅ Test Passed: verifyUpdateAcceptedLoadTest
+2025-10-14 17:51:37,737 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 17:52:01,647 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 17:52:03,846 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 17:52:03,927 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 17:52:07,762 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 17:52:15,809 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 17:52:20,649 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 17:52:40,409 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 17:52:40,419 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | unexpected alert open: {Alert text : Duplicate Product!} (Session info: chrome=141.0.7390.66): Duplicate Product! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [73f40371665a593008ae6355d4f0ee8f, findElement {using=id, value=txtQuantity}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57522}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57522/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 73f40371665a593008ae6355d4f0ee8f
+2025-10-14 17:52:40,423 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-14 17:56:24,800 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 17:56:44,838 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 17:56:47,475 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 17:56:47,644 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 17:56:52,208 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 17:57:00,621 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 17:57:07,724 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 17:57:25,366 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 17:57:25,375 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | unexpected alert open: {Alert text : Duplicate Product!} (Session info: chrome=141.0.7390.66): Duplicate Product! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [5832a08dae5b6dbf8879918b17337c83, findElement {value=txtQuantity, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57760}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57760/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 5832a08dae5b6dbf8879918b17337c83
+2025-10-14 17:57:25,380 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-14 17:58:41,344 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 17:58:57,746 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 17:58:59,410 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 17:58:59,483 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 17:59:03,551 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 17:59:11,183 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 17:59:18,359 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 17:59:48,999 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 17:59:49,004 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | unexpected alert open: {Alert text : Duplicate Product!} (Session info: chrome=141.0.7390.66): Duplicate Product! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [1bae36010b588fc2ef91498b7b0ae975, findElement {value=txtQuantity, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57893}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57893/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 1bae36010b588fc2ef91498b7b0ae975
+2025-10-14 17:59:49,009 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-14 18:03:10,645 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 18:03:45,841 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 18:03:47,881 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 18:03:47,951 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 18:03:51,774 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 18:04:02,363 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 18:04:07,686 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 18:04:51,120 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 18:04:51,127 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | unexpected alert open: {Alert text : Duplicate Product!} (Session info: chrome=141.0.7390.66): Duplicate Product! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [d3358a6c606a9e5f117bb043a31e4957, findElement {value=txtQuantity, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58128}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58128/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: d3358a6c606a9e5f117bb043a31e4957
+2025-10-14 18:04:51,133 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-14 18:07:01,439 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 18:07:41,881 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 18:07:43,152 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 18:07:43,373 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 18:07:46,850 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 18:07:53,403 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 18:07:57,584 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 18:08:33,963 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Filled the form with provided data
+2025-10-14 18:08:35,210 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Submit button
+2025-10-14 18:08:35,798 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Accepted all alerts
+2025-10-14 18:08:40,963 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 18:08:40,965 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ✅ Test Passed: verifyUpdateAcceptedLoadTest
+2025-10-14 18:17:22,596 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 18:17:41,934 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 18:17:44,494 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 18:17:44,694 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 18:17:49,388 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 18:18:02,165 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 18:18:06,262 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 18:18:49,535 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Filled the form with provided data
+2025-10-14 18:18:55,251 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 18:18:55,256 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | unexpected alert open: {Alert text : Are you sure you want to Delete?} (Session info: chrome=141.0.7390.66): Are you sure you want to Delete? Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [9e685dfc1236a7df9e09abd5b1fd350e, findElement {value=btnSubmit, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62648}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62648/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 9e685dfc1236a7df9e09abd5b1fd350e
+2025-10-14 18:18:55,262 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-14 18:20:24,913 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 18:21:00,614 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 18:21:01,896 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 18:21:01,951 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 18:21:05,565 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 18:21:22,282 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 18:21:26,036 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 18:22:05,501 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Filled the form with provided data
+2025-10-14 18:22:07,125 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Submit button
+2025-10-14 18:22:08,098 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Accepted all alerts
+2025-10-14 18:22:14,408 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Search button
+2025-10-14 18:22:30,264 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 18:22:30,270 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | element not interactable (Session info: chrome=141.0.7390.66) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [e7e9a2436b45ecf9572892c0bf39d453, clickElement {id=f.C6156FDF636EE38C8CB712D9221E82F5.d.F8DA34271F204479D35C4F5758474551.e.12879}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62721}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62721/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (e7e9a2436b45ecf9572892c0bf39d453)] -> id: btnDelete] Session ID: e7e9a2436b45ecf9572892c0bf39d453
+2025-10-14 18:22:30,280 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-14 18:23:43,164 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 18:24:10,996 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 18:24:13,232 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 18:24:13,313 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 18:24:16,968 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 18:24:34,642 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 18:24:50,926 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 18:25:20,420 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 18:25:20,436 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | unexpected alert open: {Alert text : Duplicate Product!} (Session info: chrome=141.0.7390.66): Duplicate Product! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [b8b114f4565942d8a66cfea756f77f39, findElement {using=id, value=txtQuantity}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62811}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62811/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: b8b114f4565942d8a66cfea756f77f39
+2025-10-14 18:25:20,442 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-14 18:37:42,822 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-14 18:38:02,094 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-14 18:38:04,276 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-14 18:38:04,363 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-14 18:38:09,288 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-14 18:38:35,395 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-14 18:38:57,735 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-14 18:39:48,997 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-14 18:39:49,008 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | no such element: Unable to locate element: {"method":"css selector","selector":"#txtInvoiceDate"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [dd31a2ddff8392b09ee3bb28207c2f7b, findElement {using=id, value=txtInvoiceDate}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61209}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61209/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: dd31a2ddff8392b09ee3bb28207c2f7b
+2025-10-14 18:39:49,013 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-15 09:56:55,631 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-15 09:57:24,924 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-15 09:57:28,493 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-15 09:57:28,540 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-15 09:57:31,865 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-15 09:57:57,872 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-15 09:58:11,360 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-15 09:58:44,147 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Filled the form with provided data
+2025-10-15 09:58:45,305 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Submit button
+2025-10-15 09:58:46,251 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Accepted all alerts
+2025-10-15 09:58:51,584 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Search button
+2025-10-15 09:59:03,430 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-15 09:59:03,436 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | element not interactable (Session info: chrome=141.0.7390.66) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [70a64cde09bafa82c616a1e2394eaf15, clickElement {id=f.F992962EBB5C8FF7BB1DBE6B0506FD6A.d.C0D033F5FF8F1123692CC655339D35D9.e.12866}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62005}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62005/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (70a64cde09bafa82c616a1e2394eaf15)] -> id: btnDelete] Session ID: 70a64cde09bafa82c616a1e2394eaf15
+2025-10-15 09:59:03,440 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-15 10:05:12,444 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-15 10:05:17,518 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-15 10:05:18,095 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-15 10:05:18,122 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-15 10:05:20,563 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-15 10:05:31,682 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-15 10:05:34,633 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-15 10:06:06,009 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-15 10:06:06,011 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | no such element: Unable to locate element: {"method":"css selector","selector":"#txtInvoiceDate"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [85d397e484ad80eb3e7255889a4edd07, findElement {using=id, value=txtInvoiceDate}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59518}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59518/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 85d397e484ad80eb3e7255889a4edd07
+2025-10-15 10:06:06,012 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-15 10:07:41,141 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-15 10:07:51,805 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-15 10:07:52,040 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-15 10:07:52,069 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-15 10:07:54,521 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-15 10:08:11,002 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-15 10:08:16,089 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-15 10:08:48,196 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-15 10:08:48,198 [main] ERROR com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ❌ Test Failed: verifyUpdateAcceptedLoadTest | no such element: Unable to locate element: {"method":"css selector","selector":"#txtInvoiceDate"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [8bd82c48ea7cd04a65e4c4a178a8e086, findElement {value=txtInvoiceDate, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52207}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52207/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 8bd82c48ea7cd04a65e4c4a178a8e086
+2025-10-15 10:08:48,199 [main] WARN  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ⚠️ Test Skipped: verifyUpdateAcceptedLoadTest
+2025-10-15 10:09:14,970 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-15 10:09:21,695 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-15 10:09:22,165 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-15 10:09:22,189 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-15 10:09:24,726 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-15 10:09:39,569 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-15 10:09:55,058 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-15 10:10:20,798 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Filled the form with provided data
+2025-10-15 10:10:21,444 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Submit button
+2025-10-15 10:10:22,224 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Accepted all alerts
+2025-10-15 10:10:27,150 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Search button
+2025-10-15 10:10:36,502 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Delete button
+2025-10-15 10:10:37,566 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-15 10:10:37,567 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ✅ Test Passed: verifyUpdateAcceptedLoadTest
+2025-10-15 10:13:48,182 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-15 10:13:56,144 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-15 10:13:56,398 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-15 10:13:56,413 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-15 10:13:58,830 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-15 10:14:03,516 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-15 10:14:08,265 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-15 10:14:33,921 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Filled the form with provided data
+2025-10-15 10:14:34,663 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Submit button
+2025-10-15 10:14:35,360 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Accepted all alerts
+2025-10-15 10:14:39,420 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Search button
+2025-10-15 10:14:42,487 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Delete button
+2025-10-15 10:14:43,499 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-15 10:14:43,500 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ✅ Test Passed: verifyUpdateAcceptedLoadTest
+2025-10-15 10:24:40,677 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateAcceptedLoadTest =====
+2025-10-15 10:24:48,202 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser launched and navigated to application.
+2025-10-15 10:24:48,408 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - All Page Objects initialized successfully.
+2025-10-15 10:24:48,430 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Starting test case: verifyUpdateAcceptedLoadTest
+2025-10-15 10:24:50,942 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Login successful
+2025-10-15 10:25:09,648 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Godown module
+2025-10-15 10:25:22,785 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Update Accepted Load
+2025-10-15 10:25:48,056 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Filled the form with provided data
+2025-10-15 10:25:48,531 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Submit button
+2025-10-15 10:25:49,290 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Accepted all alerts
+2025-10-15 10:25:54,069 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Search button
+2025-10-15 10:25:54,429 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Changed the date for search
+2025-10-15 10:25:54,538 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Entered date and invoice number for search
+2025-10-15 10:25:56,924 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Searched for the invoice
+2025-10-15 10:25:57,030 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Clicked on Delete button
+2025-10-15 10:25:57,728 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Accepted all alerts after deletion
+2025-10-15 10:25:58,117 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - Browser closed successfully.
+2025-10-15 10:25:58,118 [main] INFO  com.erp.qa.GodownTest.UpdateAcceptedLoadTest - ✅ Test Passed: verifyUpdateAcceptedLoadTest

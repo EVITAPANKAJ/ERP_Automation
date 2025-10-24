@@ -1,0 +1,49 @@
+2025-10-16 11:51:39,530 [main] INFO  com.erp.qa.GodownTest.XMIListTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.XMIListTest =====
+2025-10-16 11:51:59,407 [main] INFO  com.erp.qa.GodownTest.XMIListTest - Browser launched and navigated to application.
+2025-10-16 11:52:01,275 [main] INFO  com.erp.qa.GodownTest.XMIListTest - All Page Objects initialized successfully.
+2025-10-16 11:52:01,363 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-16 11:52:04,945 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-16 11:52:13,805 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-16 11:52:25,430 [main] INFO  com.erp.qa.GodownTest.XMIListTest - Browser closed successfully.
+2025-10-16 11:52:25,432 [main] INFO  com.erp.qa.GodownTest.XMIListTest - ✅ Test Passed: verifyXMIListTest
+2025-10-16 12:04:15,432 [main] INFO  com.erp.qa.GodownTest.XMIListTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.XMIListTest =====
+2025-10-16 12:04:22,221 [main] INFO  com.erp.qa.GodownTest.XMIListTest - Browser launched and navigated to application.
+2025-10-16 12:04:22,722 [main] INFO  com.erp.qa.GodownTest.XMIListTest - All Page Objects initialized successfully.
+2025-10-16 12:04:22,772 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-16 12:04:25,257 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-16 12:04:29,059 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-16 12:04:39,530 [main] INFO  com.erp.qa.GodownTest.XMIListTest - Browser closed successfully.
+2025-10-16 12:04:39,530 [main] INFO  com.erp.qa.GodownTest.XMIListTest - ✅ Test Passed: verifyXMIListTest
+2025-10-16 12:48:25,221 [main] INFO  com.erp.qa.GodownTest.XMIListTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.XMIListTest =====
+2025-10-16 12:48:31,034 [main] INFO  com.erp.qa.GodownTest.XMIListTest - Browser launched and navigated to application.
+2025-10-16 12:48:31,408 [main] INFO  com.erp.qa.GodownTest.XMIListTest - All Page Objects initialized successfully.
+2025-10-16 12:48:31,437 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-16 12:48:33,952 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-16 12:48:37,247 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-16 12:48:45,240 [main] INFO  com.erp.qa.GodownTest.XMIListTest - Browser closed successfully.
+2025-10-16 12:48:45,241 [main] INFO  com.erp.qa.GodownTest.XMIListTest - ✅ Test Passed: verifyXMIListTest
+2025-10-16 12:48:53,348 [main] INFO  com.erp.qa.GodownTest.XMIListTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.XMIListTest =====
+2025-10-16 12:48:59,092 [main] INFO  com.erp.qa.GodownTest.XMIListTest - Browser launched and navigated to application.
+2025-10-16 12:48:59,590 [main] INFO  com.erp.qa.GodownTest.XMIListTest - All Page Objects initialized successfully.
+2025-10-16 12:48:59,609 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-16 12:49:02,144 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-16 12:49:08,362 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-16 12:49:17,626 [main] INFO  com.erp.qa.GodownTest.XMIListTest - Browser closed successfully.
+2025-10-16 12:49:17,627 [main] INFO  com.erp.qa.GodownTest.XMIListTest - ✅ Test Passed: verifyXMIListTest
+2025-10-16 12:51:53,402 [main] INFO  com.erp.qa.GodownTest.XMIListTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.XMIListTest =====
+2025-10-16 12:52:02,006 [main] INFO  com.erp.qa.GodownTest.XMIListTest - Browser launched and navigated to application.
+2025-10-16 12:52:02,279 [main] INFO  com.erp.qa.GodownTest.XMIListTest - All Page Objects initialized successfully.
+2025-10-16 12:52:02,293 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-16 12:52:04,634 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-16 12:52:15,844 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-16 12:52:34,571 [main] INFO  com.erp.qa.GodownTest.XMIListTest - Browser closed successfully.
+2025-10-16 12:52:34,572 [main] INFO  com.erp.qa.GodownTest.XMIListTest - ✅ Test Passed: verifyXMIListTest
+2025-10-16 12:52:43,871 [main] INFO  com.erp.qa.GodownTest.XMIListTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.XMIListTest =====
+2025-10-16 12:52:49,364 [main] INFO  com.erp.qa.GodownTest.XMIListTest - Browser launched and navigated to application.
+2025-10-16 12:52:50,016 [main] INFO  com.erp.qa.GodownTest.XMIListTest - All Page Objects initialized successfully.
+2025-10-16 12:52:50,051 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-16 12:52:52,565 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-16 12:53:06,979 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-16 12:53:17,877 [main] INFO  com.erp.qa.GodownTest.XMIListTest - Browser closed successfully.
+2025-10-16 12:53:17,879 [main] ERROR com.erp.qa.GodownTest.XMIListTest - ❌ Test Failed: verifyXMIListTest | Error communicating with the remote browser. It may have died. Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [28498edee2d8d5c5e73fde7fbe622e56, findElement [using, value]] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50936}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50936/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 28498edee2d8d5c5e73fde7fbe622e56
+2025-10-16 12:53:17,880 [main] WARN  com.erp.qa.GodownTest.XMIListTest - ⚠️ Test Skipped: verifyXMIListTest

@@ -1,0 +1,35 @@
+2025-10-11 13:04:21,656 [main] INFO  com.erp.qa.countertests.DbcTest - ===== Starting Test Setup for: com.erp.qa.countertests.DbcTest =====
+2025-10-11 13:04:30,384 [main] INFO  com.erp.qa.countertests.DbcTest - Browser launched and navigated to application.
+2025-10-11 13:04:30,927 [main] INFO  com.erp.qa.countertests.DbcTest - All Page Objects initialized successfully.
+2025-10-11 13:04:30,947 [main] INFO  com.erp.qa.countertests.DbcTest - Starting test: verifyPurchaseLink
+2025-10-11 13:04:33,437 [main] INFO  com.erp.qa.countertests.DbcTest - Logged in successfully
+2025-10-11 13:04:36,447 [main] INFO  com.erp.qa.countertests.DbcTest - Clicked on Counter Sales link
+2025-10-11 13:05:00,095 [main] INFO  com.erp.qa.countertests.DbcTest - Browser closed successfully.
+2025-10-11 13:05:00,097 [main] ERROR com.erp.qa.countertests.DbcTest - ❌ Test Failed: verifyPurchaseLink | element not interactable (Session info: chrome=140.0.7339.210) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [e688f4104faa5b25b5faf22c3f995c67, clickElement {id=f.EA341FFFCB82393CF8FF48106CFCAA9B.d.E57E44C60B25122AFD1DAD3F6616380D.e.2678}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53575}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53575/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (e688f4104faa5b25b5faf22c3f995c67)] -> xpath: //*[@id="menuCounterSales"]/ul/li[2]/a] Session ID: e688f4104faa5b25b5faf22c3f995c67
+2025-10-11 13:05:00,099 [main] WARN  com.erp.qa.countertests.DbcTest - ⚠️ Test Skipped: verifyPurchaseLink
+2025-10-11 13:59:44,160 [main] INFO  com.erp.qa.countertests.DbcTest - ===== Starting Test Setup for: com.erp.qa.countertests.DbcTest =====
+2025-10-11 13:59:51,258 [main] INFO  com.erp.qa.countertests.DbcTest - Browser launched and navigated to application.
+2025-10-11 13:59:51,890 [main] INFO  com.erp.qa.countertests.DbcTest - All Page Objects initialized successfully.
+2025-10-11 13:59:51,912 [main] INFO  com.erp.qa.countertests.DbcTest - Starting test: verifyPurchaseLink
+2025-10-11 13:59:54,437 [main] INFO  com.erp.qa.countertests.DbcTest - Logged in successfully
+2025-10-11 14:00:21,668 [main] INFO  com.erp.qa.countertests.DbcTest - Clicked on Counter Sales link
+2025-10-11 14:00:25,829 [main] INFO  com.erp.qa.countertests.DbcTest - Clicked on DBC link
+2025-10-11 14:00:40,724 [main] INFO  com.erp.qa.countertests.DbcTest - Filled in the details on DBC page
+2025-10-11 14:00:42,736 [main] INFO  com.erp.qa.countertests.DbcTest - Clicked on Submit button
+2025-10-11 14:00:42,880 [main] INFO  com.erp.qa.countertests.DbcTest - Captured the bill number successfully
+2025-10-11 14:00:43,460 [main] INFO  com.erp.qa.countertests.DbcTest - Clicked on Back button
+2025-10-11 14:00:46,460 [main] INFO  com.erp.qa.countertests.DbcTest - Clicked on Update New Connection link
+2025-10-11 14:00:47,206 [main] INFO  com.erp.qa.countertests.DbcTest - MDL Document Number entered successfully: 2500024
+2025-10-11 14:00:49,334 [main] INFO  com.erp.qa.countertests.DbcTest - Browser closed successfully.
+2025-10-11 14:00:49,337 [main] ERROR com.erp.qa.countertests.DbcTest - ❌ Test Failed: verifyPurchaseLink | Keys to send should be a not null CharSequence
+2025-10-11 14:00:49,339 [main] WARN  com.erp.qa.countertests.DbcTest - ⚠️ Test Skipped: verifyPurchaseLink
+2025-10-11 14:10:54,346 [main] INFO  com.erp.qa.countertests.DbcTest - ===== Starting Test Setup for: com.erp.qa.countertests.DbcTest =====
+2025-10-11 14:11:11,298 [main] INFO  com.erp.qa.countertests.DbcTest - Browser launched and navigated to application.
+2025-10-11 14:11:12,629 [main] INFO  com.erp.qa.countertests.DbcTest - All Page Objects initialized successfully.
+2025-10-11 14:11:12,706 [main] INFO  com.erp.qa.countertests.DbcTest - Starting test: verifyPurchaseLink
+2025-10-11 14:11:16,615 [main] INFO  com.erp.qa.countertests.DbcTest - Logged in successfully
+2025-10-11 14:11:22,998 [main] INFO  com.erp.qa.countertests.DbcTest - Clicked on Counter Sales link
+2025-10-11 14:11:27,797 [main] INFO  com.erp.qa.countertests.DbcTest - Clicked on DBC link
+2025-10-11 14:11:34,076 [main] INFO  com.erp.qa.countertests.DbcTest - Browser closed successfully.
+2025-10-11 14:11:34,084 [main] ERROR com.erp.qa.countertests.DbcTest - ❌ Test Failed: verifyPurchaseLink | unexpected alert open: {Alert text : Consumer Have already two Cylinders} (Session info: chrome=140.0.7339.210): Consumer Have already two Cylinders Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [c7496a80f8f89ac3cb21f508d81c0089, findElement {value=txtInvoiceNo, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65230}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65230/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: c7496a80f8f89ac3cb21f508d81c0089
+2025-10-11 14:11:34,088 [main] WARN  com.erp.qa.countertests.DbcTest - ⚠️ Test Skipped: verifyPurchaseLink

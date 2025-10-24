@@ -1,0 +1,280 @@
+2025-10-15 10:43:00,220 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 10:43:10,000 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 10:43:10,262 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 10:43:10,282 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 10:43:12,712 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 10:43:21,757 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 10:43:29,757 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 10:43:29,764 [main] INFO  com.erp.qa.GodownTest.ERVTest - ✅ Test Passed: verifyERVTest
+2025-10-15 10:45:44,817 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 10:45:50,073 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 10:45:50,764 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 10:45:50,799 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 10:45:53,340 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 10:46:09,723 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 10:46:25,229 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 10:46:25,231 [main] INFO  com.erp.qa.GodownTest.ERVTest - ✅ Test Passed: verifyERVTest
+2025-10-15 10:52:16,759 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 10:52:25,248 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 10:52:25,608 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 10:52:25,626 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 10:52:28,081 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 10:52:54,473 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 10:53:16,361 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 10:53:16,366 [main] INFO  com.erp.qa.GodownTest.ERVTest - ✅ Test Passed: verifyERVTest
+2025-10-15 11:16:26,855 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 11:16:36,350 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 11:16:36,731 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 11:16:36,754 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 11:16:39,200 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 11:16:51,447 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 11:17:10,788 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 11:17:10,789 [main] INFO  com.erp.qa.GodownTest.ERVTest - ✅ Test Passed: verifyERVTest
+2025-10-15 11:17:31,775 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 11:17:37,093 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 11:17:37,619 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 11:17:37,649 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 11:17:40,058 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 11:17:44,324 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 11:17:55,536 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 11:17:55,537 [main] INFO  com.erp.qa.GodownTest.ERVTest - ✅ Test Passed: verifyERVTest
+2025-10-15 11:24:09,119 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 11:24:15,585 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 11:24:16,132 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 11:24:16,154 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 11:24:18,736 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 11:24:35,790 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 11:24:48,641 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 11:24:48,645 [main] INFO  com.erp.qa.GodownTest.ERVTest - ✅ Test Passed: verifyERVTest
+2025-10-15 11:25:04,182 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 11:25:10,397 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 11:25:10,606 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 11:25:10,624 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 11:25:13,061 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 11:25:32,022 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 11:25:43,455 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 11:25:43,456 [main] INFO  com.erp.qa.GodownTest.ERVTest - ✅ Test Passed: verifyERVTest
+2025-10-15 11:36:17,876 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 11:36:23,745 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 11:36:24,222 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 11:36:24,259 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 11:36:26,707 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 11:36:40,414 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 11:36:48,803 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 11:36:48,804 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | Index 1 out of bounds for length 1
+2025-10-15 11:36:48,805 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 11:39:49,331 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 11:39:55,360 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 11:39:55,906 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 11:39:55,956 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 11:39:58,460 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 11:40:02,775 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 11:40:17,268 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 11:40:17,274 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | Expected condition failed: waiting for number of elements found by By.id: txtProduct to be more than "1". Current number: "1" (tried for 5 second(s) with 500 milliseconds interval) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59889}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59889/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: fdb400781a6b3b3d94dc57914c36fda1
+2025-10-15 11:40:17,281 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 11:42:39,674 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 11:42:46,201 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 11:42:46,442 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 11:42:46,462 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 11:42:48,842 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 11:42:53,476 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 11:43:08,414 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 11:43:08,421 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | Expected condition failed: waiting for number of elements found by By.id: txtProduct to be more than "1". Current number: "1" (tried for 5 second(s) with 500 milliseconds interval) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60848}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60848/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: b8650589d4522554b78077d1f5220d97
+2025-10-15 11:43:08,423 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 11:47:19,716 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 11:47:25,560 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 11:47:26,140 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 11:47:26,163 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 11:47:28,697 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 11:47:43,883 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 11:48:04,626 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 11:48:04,630 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | element not interactable (Session info: chrome=141.0.7390.66) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [e94ea759cc6da76fffba0fd411f4f7d4, clearElement {id=f.8B065B58A9583BE3669736C021A4F587.d.4B1AE06C5716FEFEC157EA59BCEC02F3.e.3538}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54294}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54294/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (e94ea759cc6da76fffba0fd411f4f7d4)] -> xpath: //input[contains(@id,'txtProduct')]] Session ID: e94ea759cc6da76fffba0fd411f4f7d4
+2025-10-15 11:48:04,632 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 11:50:39,987 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 11:50:46,969 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 11:50:47,171 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 11:50:47,188 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting ERV Test Case...
+2025-10-15 11:50:49,507 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 11:51:22,830 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 11:51:22,833 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | unexpected alert open: {Alert text : No Product found!} (Session info: chrome=141.0.7390.66): No Product found! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [f9a552ee61389c5561cbb4da98f6bc79, clearElement {id=f.DC0E15F954CA9724D47B91905E31D753.d.6B62B89991B9C30226B0C045446C3D9C.e.3731}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57658}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57658/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (f9a552ee61389c5561cbb4da98f6bc79)] -> xpath: //input[contains(@id,'txtSound')]] Session ID: f9a552ee61389c5561cbb4da98f6bc79
+2025-10-15 11:51:22,836 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 11:57:59,524 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 11:58:14,656 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 11:58:17,487 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 11:58:17,746 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 11:58:21,230 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 11:58:27,747 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 11:58:47,714 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 11:58:47,717 [main] INFO  com.erp.qa.GodownTest.ERVTest - ✅ Test Passed: verifyERVTest
+2025-10-15 12:00:03,877 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 12:00:20,353 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 12:00:21,762 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 12:00:21,831 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 12:00:25,086 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 12:00:37,509 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 12:00:57,602 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 12:00:57,604 [main] INFO  com.erp.qa.GodownTest.ERVTest - ✅ Test Passed: verifyERVTest
+2025-10-15 12:02:12,430 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 12:02:42,166 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 12:02:45,536 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 12:02:45,741 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 12:02:51,137 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 12:03:14,599 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 12:03:34,815 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 12:03:34,817 [main] INFO  com.erp.qa.GodownTest.ERVTest - ✅ Test Passed: verifyERVTest
+2025-10-15 12:04:32,368 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 12:05:01,134 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 12:05:02,669 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 12:05:02,919 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 12:05:09,259 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 12:05:16,251 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 12:06:09,609 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 12:06:09,621 [main] INFO  com.erp.qa.GodownTest.ERVTest - ✅ Test Passed: verifyERVTest
+2025-10-15 12:06:15,488 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 12:06:28,736 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 12:06:30,302 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 12:06:30,336 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 12:06:34,388 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 12:06:41,344 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 12:07:00,286 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 12:07:00,294 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | no such element: Unable to locate element: {"method":"css selector","selector":"#btnEdit"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [412b460a74c689a7ac683e5ea63c6567, findElement {value=btnEdit, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56420}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56420/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 412b460a74c689a7ac683e5ea63c6567
+2025-10-15 12:07:00,303 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 12:30:29,898 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 12:30:38,212 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 12:30:38,787 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 12:30:38,806 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 12:30:41,218 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 12:30:56,869 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 12:31:13,041 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 12:31:13,043 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | element click intercepted: Element <select id="tb2ddlGodownID" class="form-control selectpicker" data-show-subtext="true" data-live-search="true" style="width: 100%;" onchange="tb2ddlGodownChange(this.value)" tabindex="-98">...</select> is not clickable at point (542, 257). Other element would receive the click: <div class="filter-option-inner-inner">...</div> (Session info: chrome=141.0.7390.66) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [683b4dc19408952db08f71376e736f90, clickElement {id=f.01D0C755775C7D94EA74F90F9FB5E018.d.DC05D11D3D56DA39547D3D42C3E4C6C1.e.7063}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57459}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57459/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (683b4dc19408952db08f71376e736f90)] -> id: tb2ddlGodownID] Session ID: 683b4dc19408952db08f71376e736f90
+2025-10-15 12:31:13,044 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 12:37:56,920 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 12:38:03,162 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 12:38:03,532 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 12:38:03,559 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 12:38:06,032 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 12:38:20,171 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 12:38:37,725 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 12:38:37,728 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | element click intercepted: Element <select id="tb2ddlGodownID" class="form-control selectpicker" data-show-subtext="true" data-live-search="true" style="width: 100%;" onchange="tb2ddlGodownChange(this.value)" tabindex="-98">...</select> is not clickable at point (542, 257). Other element would receive the click: <div class="filter-option-inner-inner">...</div> (Session info: chrome=141.0.7390.66) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [c952b883c62284a132e2e493dbab987c, clickElement {id=f.0849CE7D9CD7080E6736FD2EE41BB926.d.F0DBCB54ACA946932DF88213A7168604.e.6741}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63873}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63873/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (c952b883c62284a132e2e493dbab987c)] -> id: tb2ddlGodownID] Session ID: c952b883c62284a132e2e493dbab987c
+2025-10-15 12:38:37,729 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 12:41:54,644 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 12:42:00,622 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 12:42:00,946 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 12:42:00,968 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 12:42:03,467 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 12:42:27,672 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 12:42:46,204 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 12:42:46,213 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | element click intercepted: Element <select id="tb2ddlGodownID" class="form-control selectpicker" data-show-subtext="true" data-live-search="true" style="width: 100%;" onchange="tb2ddlGodownChange(this.value)" tabindex="-98">...</select> is not clickable at point (542, 257). Other element would receive the click: <div class="filter-option-inner-inner">...</div> (Session info: chrome=141.0.7390.66) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [a880ac18fcc5a5d3f93a0bfbea7a41e9, clickElement {id=f.2715BEE9CBE48A6B6029193E05772FA6.d.5BCE52CE7DEA0CD0BA617278C79E881F.e.7023}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51534}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51534/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (a880ac18fcc5a5d3f93a0bfbea7a41e9)] -> id: tb2ddlGodownID] Session ID: a880ac18fcc5a5d3f93a0bfbea7a41e9
+2025-10-15 12:42:46,215 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 12:47:28,344 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 12:47:44,765 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 12:47:45,004 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 12:47:45,026 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 12:47:47,417 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 12:48:44,991 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 12:49:20,261 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 12:49:20,262 [main] INFO  com.erp.qa.GodownTest.ERVTest - ✅ Test Passed: verifyERVTest
+2025-10-15 12:51:50,595 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 12:51:56,006 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 12:51:56,558 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 12:51:56,575 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 12:51:59,035 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 12:52:20,641 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 12:52:56,392 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 12:52:56,393 [main] INFO  com.erp.qa.GodownTest.ERVTest - ✅ Test Passed: verifyERVTest
+2025-10-15 12:57:54,165 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 12:58:03,225 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 12:58:03,550 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 12:58:03,566 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 12:58:05,955 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 12:58:17,150 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 12:58:45,271 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 12:58:45,274 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='form-group has-feedback']//div[@class='dropdown bootstrap-select form-control bs3 dropup']//div[@class='filter-option-inner-inner'][normalize-space()='--Select--']"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [b26bd013b171c2cd87534658cdd64d3f, findElement {using=xpath, value=//div[@class='form-group has-feedback']//div[@class='dropdown bootstrap-select form-control bs3 dropup']//div[@class='filter-option-inner-inner'][normalize-space()='--Select--']}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60680}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60680/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: b26bd013b171c2cd87534658cdd64d3f
+2025-10-15 12:58:45,276 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 13:03:18,679 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 13:03:25,616 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 13:03:25,910 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 13:03:25,926 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 13:03:28,340 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 13:03:42,467 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 13:04:41,601 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 13:04:41,602 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | Unable to click on godownDropdown element (tried Actions and JS).
+2025-10-15 13:04:41,602 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 14:09:22,863 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 14:09:42,844 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 14:09:45,929 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 14:09:46,142 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 14:09:50,606 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 14:10:18,290 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 14:11:06,698 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 14:11:06,707 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | clickOnGodownDropdown failed: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on windows (ef68ff3d728b3741707c6bc003ad177c)] -> xpath: //div[@class='form-group has-feedback']//div[contains(@class,'bootstrap-select') and contains(@class,'form-control')]//div[contains(@class,'filter-option-inner-inner')]] (tried for 15 second(s) with 500 milliseconds interval) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60366}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60366/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: ef68ff3d728b3741707c6bc003ad177c
+2025-10-15 14:11:06,713 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 14:18:42,332 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 14:19:04,638 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 14:19:07,380 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 14:19:07,534 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 14:19:11,891 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 14:19:38,178 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 14:20:09,492 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 14:20:09,499 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | no such element: Unable to locate element: {"method":"xpath","selector":"//input[@type='search']"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [57a6a9a171237fec15085b541c8c889c, findElement {value=//input[@type='search'], using=xpath}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52667}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52667/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 57a6a9a171237fec15085b541c8c889c
+2025-10-15 14:20:09,506 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 14:22:15,373 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 14:22:38,297 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 14:22:41,237 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 14:22:41,407 [main] INFO  com.erp.qa.GodownTest.ERVTest - Starting test case: verifyERVTest
+2025-10-15 14:22:45,798 [main] INFO  com.erp.qa.GodownTest.ERVTest - Login successful
+2025-10-15 14:22:58,786 [main] INFO  com.erp.qa.GodownTest.ERVTest - Navigated to Godown section
+2025-10-15 14:23:56,580 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser closed successfully.
+2025-10-15 14:23:56,586 [main] ERROR com.erp.qa.GodownTest.ERVTest - ❌ Test Failed: verifyERVTest | no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='form-group has-feedback']//div[@class='dropdown bootstrap-select form-control bs3 dropup']//div[@class='filter-option-inner-inner'][normalize-space()='--Select--']"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [57950eabf4766c1c61c48fc3d71b12a6, findElement {value=//div[@class='form-group has-feedback']//div[@class='dropdown bootstrap-select form-control bs3 dropup']//div[@class='filter-option-inner-inner'][normalize-space()='--Select--'], using=xpath}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53246}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53246/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 57950eabf4766c1c61c48fc3d71b12a6
+2025-10-15 14:23:56,590 [main] WARN  com.erp.qa.GodownTest.ERVTest - ⚠️ Test Skipped: verifyERVTest
+2025-10-15 14:30:35,017 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 14:30:43,305 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 14:30:43,987 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 14:36:22,097 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 14:36:30,535 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 14:36:31,733 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 14:37:56,655 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 14:38:04,549 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 14:38:05,483 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 14:45:50,466 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 14:45:57,934 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 14:45:58,675 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 14:47:06,680 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 14:47:14,847 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 14:47:15,458 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 14:51:38,407 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 14:51:47,190 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 14:51:48,056 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 14:54:18,663 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 14:54:27,146 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 14:54:27,663 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 16:14:47,483 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 16:16:08,894 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 16:16:13,805 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 17:07:56,199 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 17:08:07,272 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 17:08:08,579 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 17:10:52,646 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 17:10:59,900 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 17:11:00,613 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 17:19:41,292 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 17:20:37,808 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 17:20:41,805 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 17:25:46,694 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 17:26:12,076 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 17:26:14,675 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 17:32:41,804 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 17:33:06,849 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 17:33:09,522 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 17:38:28,659 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 17:38:51,906 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 17:38:54,747 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 17:46:20,741 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 17:46:29,640 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 17:46:30,071 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 17:57:04,773 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 17:57:11,487 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 17:57:11,898 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.
+2025-10-15 17:58:36,152 [main] INFO  com.erp.qa.GodownTest.ERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.ERVTest =====
+2025-10-15 17:58:41,801 [main] INFO  com.erp.qa.GodownTest.ERVTest - Browser launched and navigated to application.
+2025-10-15 17:58:42,233 [main] INFO  com.erp.qa.GodownTest.ERVTest - All Page Objects initialized successfully.

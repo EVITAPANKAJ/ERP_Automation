@@ -1,0 +1,44 @@
+2025-10-14 11:07:19,508 [main] INFO  com.erp.qa.countertests.NameChangeTest - ===== Starting Test Setup for: com.erp.qa.countertests.NameChangeTest =====
+2025-10-14 11:07:30,008 [main] INFO  com.erp.qa.countertests.NameChangeTest - Browser launched and navigated to application.
+2025-10-14 11:07:30,238 [main] INFO  com.erp.qa.countertests.NameChangeTest - All Page Objects initialized successfully.
+2025-10-14 11:07:30,255 [main] INFO  com.erp.qa.countertests.NameChangeTest - ********** Starting Test Case: NameChangeTest **********
+2025-10-14 11:07:32,590 [main] INFO  com.erp.qa.countertests.NameChangeTest - Login successful
+2025-10-14 11:07:45,620 [main] INFO  com.erp.qa.countertests.NameChangeTest - Counter Sales link clicked successfully
+2025-10-14 11:07:47,946 [main] INFO  com.erp.qa.countertests.NameChangeTest - Name Change link clicked successfully
+2025-10-14 11:08:27,256 [main] INFO  com.erp.qa.countertests.NameChangeTest - Details filled successfully
+2025-10-14 11:08:29,271 [main] INFO  com.erp.qa.countertests.NameChangeTest - Submit button clicked successfully
+2025-10-14 11:08:31,268 [main] INFO  com.erp.qa.countertests.NameChangeTest - Back button clicked successfully
+2025-10-14 11:08:31,268 [main] INFO  com.erp.qa.countertests.NameChangeTest - Update New Connection link clicked successfully
+2025-10-14 11:08:31,269 [main] WARN  com.erp.qa.countertests.NameChangeTest - Bill number was null — skipping MDL document number entry.
+2025-10-14 11:08:42,388 [main] INFO  com.erp.qa.countertests.NameChangeTest - Browser closed successfully.
+2025-10-14 11:08:42,391 [main] ERROR com.erp.qa.countertests.NameChangeTest - ❌ Test Failed: verifyCounterLink | no such element: Unable to locate element: {"method":"css selector","selector":"#btnMDLGet"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [76ce97f13d7ea087f27a2fc95b78576a, findElement {value=btnMDLGet, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63451}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63451/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 76ce97f13d7ea087f27a2fc95b78576a
+2025-10-14 11:08:42,392 [main] WARN  com.erp.qa.countertests.NameChangeTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-14 11:09:08,281 [main] INFO  com.erp.qa.countertests.NameChangeTest - ===== Starting Test Setup for: com.erp.qa.countertests.NameChangeTest =====
+2025-10-14 11:09:14,414 [main] INFO  com.erp.qa.countertests.NameChangeTest - Browser launched and navigated to application.
+2025-10-14 11:09:14,760 [main] INFO  com.erp.qa.countertests.NameChangeTest - All Page Objects initialized successfully.
+2025-10-14 11:09:14,778 [main] INFO  com.erp.qa.countertests.NameChangeTest - ********** Starting Test Case: NameChangeTest **********
+2025-10-14 11:09:17,157 [main] INFO  com.erp.qa.countertests.NameChangeTest - Login successful
+2025-10-14 11:09:21,539 [main] INFO  com.erp.qa.countertests.NameChangeTest - Counter Sales link clicked successfully
+2025-10-14 11:09:23,719 [main] INFO  com.erp.qa.countertests.NameChangeTest - Name Change link clicked successfully
+2025-10-14 11:09:30,630 [main] INFO  com.erp.qa.countertests.NameChangeTest - Details filled successfully
+2025-10-14 11:09:32,635 [main] INFO  com.erp.qa.countertests.NameChangeTest - Submit button clicked successfully
+2025-10-14 11:09:32,889 [main] INFO  com.erp.qa.countertests.NameChangeTest - Back button clicked successfully
+2025-10-14 11:09:32,890 [main] INFO  com.erp.qa.countertests.NameChangeTest - Update New Connection link clicked successfully
+2025-10-14 11:09:45,349 [main] INFO  com.erp.qa.countertests.NameChangeTest - Browser closed successfully.
+2025-10-14 11:09:45,351 [main] ERROR com.erp.qa.countertests.NameChangeTest - ❌ Test Failed: verifyCounterLink | element not interactable (Session info: chrome=141.0.7390.66) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [7df04148fa066c910d58a928a0e3e31d, sendKeysToElement {id=f.E0EA4BC389F924CE0AC2F7B07013A3A4.d.241A967F6444A51A324C34B59615C068.e.8261, value=[Ljava.lang.CharSequence;@31ddb930}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63549}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63549/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Element: [[ChromeDriver: chrome on windows (7df04148fa066c910d58a928a0e3e31d)] -> id: txtMDLDocumentNo] Session ID: 7df04148fa066c910d58a928a0e3e31d
+2025-10-14 11:09:45,354 [main] WARN  com.erp.qa.countertests.NameChangeTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-14 11:10:45,574 [main] INFO  com.erp.qa.countertests.NameChangeTest - ===== Starting Test Setup for: com.erp.qa.countertests.NameChangeTest =====
+2025-10-14 11:10:51,934 [main] INFO  com.erp.qa.countertests.NameChangeTest - Browser launched and navigated to application.
+2025-10-14 11:10:52,382 [main] INFO  com.erp.qa.countertests.NameChangeTest - All Page Objects initialized successfully.
+2025-10-14 11:10:52,403 [main] INFO  com.erp.qa.countertests.NameChangeTest - ********** Starting Test Case: NameChangeTest **********
+2025-10-14 11:10:54,843 [main] INFO  com.erp.qa.countertests.NameChangeTest - Login successful
+2025-10-14 11:10:57,977 [main] INFO  com.erp.qa.countertests.NameChangeTest - Counter Sales link clicked successfully
+2025-10-14 11:10:59,828 [main] INFO  com.erp.qa.countertests.NameChangeTest - Name Change link clicked successfully
+2025-10-14 11:11:06,256 [main] INFO  com.erp.qa.countertests.NameChangeTest - Details filled successfully
+2025-10-14 11:11:08,270 [main] INFO  com.erp.qa.countertests.NameChangeTest - Submit button clicked successfully
+2025-10-14 11:11:08,554 [main] INFO  com.erp.qa.countertests.NameChangeTest - Back button clicked successfully
+2025-10-14 11:11:10,350 [main] INFO  com.erp.qa.countertests.NameChangeTest - Update New Connection link clicked successfully
+2025-10-14 11:11:10,666 [main] INFO  com.erp.qa.countertests.NameChangeTest - MDL Document Number entered successfully: 2500039
+2025-10-14 11:11:10,832 [main] INFO  com.erp.qa.countertests.NameChangeTest - MDL Get button clicked successfully
+2025-10-14 11:11:11,614 [main] INFO  com.erp.qa.countertests.NameChangeTest - Browser closed successfully.
+2025-10-14 11:11:11,615 [main] INFO  com.erp.qa.countertests.NameChangeTest - ✅ Test Passed: verifyCounterLink

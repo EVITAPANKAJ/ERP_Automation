@@ -1,0 +1,48 @@
+2025-10-15 15:10:59,217 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateERVTest =====
+2025-10-15 15:11:30,809 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Browser launched and navigated to application.
+2025-10-15 15:11:32,382 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - All Page Objects initialized successfully.
+2025-10-15 15:11:32,531 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Starting test case: verifyUpdateERVTest
+2025-10-15 15:11:36,982 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Login successful
+2025-10-15 15:11:44,009 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Navigated to Godown page
+2025-10-15 15:11:57,015 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Browser closed successfully.
+2025-10-15 15:11:57,024 [main] ERROR com.erp.qa.GodownTest.UpdateERVTest - ❌ Test Failed: verifyUpdateERVTest | no such element: Unable to locate element: {"method":"css selector","selector":"#datepicker"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [d444392d3e5796690c5aa2e5a4936cab, findElement {value=datepicker, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49581}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49581/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: d444392d3e5796690c5aa2e5a4936cab
+2025-10-15 15:11:57,027 [main] WARN  com.erp.qa.GodownTest.UpdateERVTest - ⚠️ Test Skipped: verifyUpdateERVTest
+2025-10-15 15:17:32,707 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateERVTest =====
+2025-10-15 15:17:57,885 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Browser launched and navigated to application.
+2025-10-15 15:18:01,402 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - All Page Objects initialized successfully.
+2025-10-15 15:18:01,457 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Starting test case: verifyUpdateERVTest
+2025-10-15 15:18:05,367 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Login successful
+2025-10-15 15:18:12,836 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Navigated to Godown page
+2025-10-15 15:18:28,575 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Clicked on Update ERV link
+2025-10-15 15:18:30,208 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Date selected
+2025-10-15 15:18:30,673 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Entered ERV Number
+2025-10-15 15:18:31,608 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Clicked on Search button
+2025-10-15 15:18:32,360 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Clicked on Delete button
+2025-10-15 15:18:45,149 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Browser closed successfully.
+2025-10-15 15:18:45,153 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - ✅ Test Passed: verifyUpdateERVTest
+2025-10-15 15:20:09,843 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateERVTest =====
+2025-10-15 15:20:26,029 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Browser launched and navigated to application.
+2025-10-15 15:20:28,703 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - All Page Objects initialized successfully.
+2025-10-15 15:20:28,980 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Starting test case: verifyUpdateERVTest
+2025-10-15 15:20:33,113 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Login successful
+2025-10-15 15:20:50,723 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Navigated to Godown page
+2025-10-15 15:20:56,228 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Clicked on Update ERV link
+2025-10-15 15:20:58,005 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Date selected
+2025-10-15 15:20:59,085 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Entered ERV Number
+2025-10-15 15:21:00,351 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Clicked on Search button
+2025-10-15 15:21:01,219 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Clicked on Delete button
+2025-10-15 15:21:05,080 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Browser closed successfully.
+2025-10-15 15:21:05,083 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - ✅ Test Passed: verifyUpdateERVTest
+2025-10-15 15:23:59,665 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.UpdateERVTest =====
+2025-10-15 15:24:17,938 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Browser launched and navigated to application.
+2025-10-15 15:24:20,770 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - All Page Objects initialized successfully.
+2025-10-15 15:24:20,870 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Starting test case: verifyUpdateERVTest
+2025-10-15 15:24:25,651 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Login successful
+2025-10-15 15:24:37,536 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Navigated to Godown page
+2025-10-15 15:24:50,641 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Clicked on Update ERV link
+2025-10-15 15:24:52,061 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Date selected
+2025-10-15 15:24:52,722 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Entered ERV Number
+2025-10-15 15:24:53,482 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Clicked on Search button
+2025-10-15 15:24:54,179 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Clicked on Delete button
+2025-10-15 15:24:59,918 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - Browser closed successfully.
+2025-10-15 15:24:59,920 [main] INFO  com.erp.qa.GodownTest.UpdateERVTest - ✅ Test Passed: verifyUpdateERVTest

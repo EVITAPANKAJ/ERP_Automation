@@ -1,0 +1,226 @@
+2025-10-16 13:02:18,676 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-16 13:02:45,717 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-16 13:02:46,987 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-16 13:02:47,037 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-16 13:02:50,601 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-16 13:03:01,027 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-16 13:03:07,763 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-16 13:03:07,766 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-16 14:00:22,588 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-16 14:00:31,917 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-16 14:00:32,653 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-16 14:00:32,700 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-16 14:00:35,263 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-16 14:00:39,658 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-16 14:00:46,581 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-16 14:00:46,582 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-16 14:02:47,496 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-16 14:02:55,290 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-16 14:02:56,233 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-16 14:02:56,294 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-16 14:02:59,137 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-16 14:03:04,297 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-16 14:03:09,492 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-16 14:03:09,493 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-16 14:22:06,939 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-16 14:22:16,858 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-16 14:22:17,503 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-16 14:22:17,543 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-16 14:22:20,337 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-16 14:22:26,972 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-16 14:22:34,859 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-16 14:22:34,860 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-16 14:25:44,892 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-16 14:25:53,178 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-16 14:25:54,003 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-16 14:25:54,062 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-16 14:25:56,943 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-16 14:26:03,184 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-16 14:26:10,849 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-16 14:26:10,850 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyCommercialDeliveryTest
+2025-10-16 14:33:27,022 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-16 14:33:35,970 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-16 14:33:36,970 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-16 14:33:36,999 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Starting test case: verifyCommercialDeliveryTest
+2025-10-16 14:33:39,649 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Login successful
+2025-10-16 14:33:45,068 [main] INFO  com.erp.qa.GodownTest.CommercialDeliveryTest - Navigated to Godown section
+2025-10-16 14:33:51,690 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-16 14:33:51,692 [main] ERROR com.erp.qa.GodownTest.DomesticDeliveryTest - ❌ Test Failed: verifyCommercialDeliveryTest | class jdk.proxy2.$Proxy30 cannot be cast to class org.openqa.selenium.WebElement (jdk.proxy2.$Proxy30 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.WebElement is in unnamed module of loader 'app')
+2025-10-16 14:33:51,694 [main] WARN  com.erp.qa.GodownTest.DomesticDeliveryTest - ⚠️ Test Skipped: verifyCommercialDeliveryTest
+2025-10-16 14:47:15,582 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-16 14:47:26,020 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-16 14:47:26,896 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-16 14:47:26,950 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-16 14:48:10,028 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-16 14:48:10,030 [main] ERROR com.erp.qa.GodownTest.DomesticDeliveryTest - ❌ Test Failed: verifyDomesticDeliveryTest | Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='select2-container']//input[@type='search' or @role='textbox']' (tried for 10 second(s) with 500 milliseconds interval)
+2025-10-16 14:48:10,032 [main] WARN  com.erp.qa.GodownTest.DomesticDeliveryTest - ⚠️ Test Skipped: verifyDomesticDeliveryTest
+2025-10-16 14:51:30,050 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-16 14:51:39,131 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-16 14:51:40,373 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-16 14:51:40,446 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-16 14:52:21,761 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Filled rows: 2
+2025-10-16 14:52:23,926 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-16 14:52:23,927 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyDomesticDeliveryTest
+2025-10-16 15:03:13,286 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-16 15:03:24,636 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-16 15:03:25,452 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-16 15:03:25,500 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-16 15:13:10,898 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-16 15:13:44,503 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-16 15:13:51,725 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-16 15:13:51,843 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-16 15:16:35,199 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Filled rows: 10
+2025-10-16 15:16:45,371 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-16 15:16:45,373 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyDomesticDeliveryTest
+2025-10-16 15:34:30,585 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-16 15:34:44,672 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-16 15:34:45,402 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-16 15:34:45,426 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-16 15:37:11,646 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Filled rows: 26
+2025-10-16 15:37:12,644 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-16 15:37:12,646 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyDomesticDeliveryTest
+2025-10-18 09:52:17,118 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 09:52:40,043 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 09:52:41,299 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 09:52:41,318 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 09:54:30,226 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Filled rows: 26
+2025-10-18 09:54:32,436 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 09:54:32,438 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyDomesticDeliveryTest
+2025-10-18 09:55:01,368 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 09:55:07,545 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 09:55:08,059 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 09:55:08,092 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 09:56:52,107 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Filled rows: 26
+2025-10-18 09:56:55,391 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 09:56:55,392 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyDomesticDeliveryTest
+2025-10-18 10:00:00,594 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 10:00:04,897 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 10:00:05,987 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 10:00:06,001 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 10:01:37,212 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Filled rows: 26
+2025-10-18 10:01:37,686 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Clicked on Submit button.
+2025-10-18 10:01:37,843 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Domestic delivery submitted successfully.
+2025-10-18 10:01:40,355 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 10:01:40,355 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyDomesticDeliveryTest
+2025-10-18 10:21:10,037 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 10:21:25,690 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 10:21:28,532 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 10:21:28,600 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 10:21:48,624 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 10:21:48,631 [main] ERROR com.erp.qa.GodownTest.DomesticDeliveryTest - ❌ Test Failed: verifyDomesticDeliveryTest | javascript error: arguments[0].dispatchEvent is not a function (Session info: chrome=141.0.7390.66) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [db161941481aedbf2f7ed14e95fee250, executeScript {script=arguments[0].value=arguments[1]; arguments[0].dispatchEvent(new Event('change'));, args=[[{element-6066-11e4-a52e-4f735466cecf=f.F8EBEECA5EE0976E692839BB0F341FD2.d.25ECF6E72CC76E07B1DAC9E3420D56F9.e.3691}], 10/10/2025]}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52471}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52471/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: db161941481aedbf2f7ed14e95fee250
+2025-10-18 10:21:48,635 [main] WARN  com.erp.qa.GodownTest.DomesticDeliveryTest - ⚠️ Test Skipped: verifyDomesticDeliveryTest
+2025-10-18 14:15:04,516 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 14:15:30,184 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 14:15:33,622 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 14:15:33,836 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 14:16:18,073 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Reopened Domestic Delivery page to verify submission.
+2025-10-18 14:16:24,008 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 14:16:24,012 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyDomesticDeliveryTest
+2025-10-18 14:32:23,551 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 14:32:32,639 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 14:32:33,775 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 14:32:33,815 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 14:34:44,266 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Filled rows: 26
+2025-10-18 14:34:44,805 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Clicked on Submit button.
+2025-10-18 14:34:54,926 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Domestic delivery submitted successfully.
+2025-10-18 14:35:19,263 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Reopened Domestic Delivery page to verify submission.
+2025-10-18 14:35:22,521 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 14:35:22,522 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyDomesticDeliveryTest
+2025-10-18 14:42:21,015 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 14:42:33,766 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 14:42:34,465 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 14:42:34,495 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 14:43:10,289 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Reopened Domestic Delivery page to verify submission.
+2025-10-18 14:43:15,119 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 14:43:15,121 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyDomesticDeliveryTest
+2025-10-18 14:45:14,175 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 14:45:22,597 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 14:45:25,014 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 14:45:25,136 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 14:46:06,937 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Reopened Domestic Delivery page to verify submission.
+2025-10-18 14:46:19,629 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 14:46:19,630 [main] ERROR com.erp.qa.GodownTest.DomesticDeliveryTest - ❌ Test Failed: verifyDomesticDeliveryTest | No rows found yet.
+2025-10-18 14:46:19,632 [main] WARN  com.erp.qa.GodownTest.DomesticDeliveryTest - ⚠️ Test Skipped: verifyDomesticDeliveryTest
+2025-10-18 14:59:17,780 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 14:59:39,823 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 14:59:43,512 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 14:59:43,625 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 15:00:49,702 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 15:00:49,704 [main] ERROR com.erp.qa.GodownTest.DomesticDeliveryTest - ❌ Test Failed: verifyDomesticDeliveryTest | No rows found yet.
+2025-10-18 15:00:49,706 [main] WARN  com.erp.qa.GodownTest.DomesticDeliveryTest - ⚠️ Test Skipped: verifyDomesticDeliveryTest
+2025-10-18 17:00:59,446 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 17:01:18,237 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 17:01:21,383 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 17:01:21,483 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 17:02:22,445 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 17:02:22,449 [main] ERROR com.erp.qa.GodownTest.DomesticDeliveryTest - ❌ Test Failed: verifyDomesticDeliveryTest | No rows found yet.
+2025-10-18 17:02:22,453 [main] WARN  com.erp.qa.GodownTest.DomesticDeliveryTest - ⚠️ Test Skipped: verifyDomesticDeliveryTest
+2025-10-18 17:10:16,611 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 17:10:47,326 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 17:10:48,975 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 17:10:49,060 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 17:12:29,858 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 17:12:29,861 [main] ERROR com.erp.qa.GodownTest.DomesticDeliveryTest - ❌ Test Failed: verifyDomesticDeliveryTest | no such element: Unable to locate element: {"method":"css selector","selector":"#btnEdit"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [65a4bfcc734ab9b78657eeeac3f9b93f, findElement {value=btnEdit, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56925}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56925/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 65a4bfcc734ab9b78657eeeac3f9b93f
+2025-10-18 17:12:29,864 [main] WARN  com.erp.qa.GodownTest.DomesticDeliveryTest - ⚠️ Test Skipped: verifyDomesticDeliveryTest
+2025-10-18 17:14:14,189 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 17:14:23,392 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 17:14:24,406 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 17:14:24,442 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 17:15:18,955 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 17:15:18,957 [main] ERROR com.erp.qa.GodownTest.DomesticDeliveryTest - ❌ Test Failed: verifyDomesticDeliveryTest | No rows found yet.
+2025-10-18 17:15:18,961 [main] WARN  com.erp.qa.GodownTest.DomesticDeliveryTest - ⚠️ Test Skipped: verifyDomesticDeliveryTest
+2025-10-18 17:16:55,944 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 17:17:15,544 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 17:17:16,014 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 17:17:16,038 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 17:19:47,492 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 17:19:57,007 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 17:19:57,840 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 17:19:57,908 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 17:20:13,244 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 17:20:13,251 [main] ERROR com.erp.qa.GodownTest.DomesticDeliveryTest - ❌ Test Failed: verifyDomesticDeliveryTest | javascript error: arguments[0].dispatchEvent is not a function (Session info: chrome=141.0.7390.66) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [b6eee6f20b7e178cc63aacc4b526e662, executeScript {script=arguments[0].value=arguments[1]; arguments[0].dispatchEvent(new Event('change'));, args=[[{element-6066-11e4-a52e-4f735466cecf=f.A4CDFC2C4D6357884D9E22E063A29A8B.d.DEF736E0F11B716024E2D49A01B56187.e.4651}], 11/10/2025]}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57358}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57358/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: b6eee6f20b7e178cc63aacc4b526e662
+2025-10-18 17:20:13,253 [main] WARN  com.erp.qa.GodownTest.DomesticDeliveryTest - ⚠️ Test Skipped: verifyDomesticDeliveryTest
+2025-10-18 17:20:40,410 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 17:20:48,812 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 17:20:49,477 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 17:20:49,505 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 17:21:01,975 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 17:21:01,980 [main] ERROR com.erp.qa.GodownTest.DomesticDeliveryTest - ❌ Test Failed: verifyDomesticDeliveryTest | javascript error: arguments[0].dispatchEvent is not a function (Session info: chrome=141.0.7390.66) Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [1eb225b0ae54786f1b369642f74a072e, executeScript {script=arguments[0].value=arguments[1]; arguments[0].dispatchEvent(new Event('change'));, args=[[{element-6066-11e4-a52e-4f735466cecf=f.37A5578711C22AEAE8307D9396E3F749.d.1F5160C957612DCE20C9BB26A3CAB3D3.e.4504}], 12/10/2025]}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57426}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57426/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 1eb225b0ae54786f1b369642f74a072e
+2025-10-18 17:21:01,983 [main] WARN  com.erp.qa.GodownTest.DomesticDeliveryTest - ⚠️ Test Skipped: verifyDomesticDeliveryTest
+2025-10-18 17:24:04,571 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 17:24:55,541 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 17:24:56,786 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 17:24:56,828 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 17:25:14,710 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 17:25:14,720 [main] ERROR com.erp.qa.GodownTest.DomesticDeliveryTest - ❌ Test Failed: verifyDomesticDeliveryTest | no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='Godown Transactions']"} (Session info: chrome=141.0.7390.66) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [3918d91dcff687a1d5fae3eb2ab66b71, findElement {value=//span[normalize-space()='Godown Transactions'], using=xpath}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.78 (2b53b0e231fc..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57575}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57575/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 3918d91dcff687a1d5fae3eb2ab66b71
+2025-10-18 17:25:14,734 [main] WARN  com.erp.qa.GodownTest.DomesticDeliveryTest - ⚠️ Test Skipped: verifyDomesticDeliveryTest
+2025-10-18 17:29:55,622 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 17:30:03,578 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 17:30:04,412 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 17:30:04,489 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 17:32:14,404 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Filled rows: 26
+2025-10-18 17:32:14,936 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Clicked on Submit button.
+2025-10-18 17:32:25,571 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Domestic delivery submitted successfully.
+2025-10-18 17:32:49,629 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Reopened Domestic Delivery page to verify submission.
+2025-10-18 17:32:53,412 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 17:32:53,413 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyDomesticDeliveryTest
+2025-10-18 17:37:06,143 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 17:37:19,362 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 17:37:20,061 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 17:37:20,098 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 17:40:08,499 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Filled rows: 26
+2025-10-18 17:40:09,404 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Clicked on Submit button.
+2025-10-18 17:40:22,079 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Domestic delivery submitted successfully.
+2025-10-18 17:40:49,280 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Reopened Domestic Delivery page to verify submission.
+2025-10-18 17:40:59,036 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 17:40:59,037 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyDomesticDeliveryTest
+2025-10-18 17:43:17,291 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ===== Starting Test Setup for: com.erp.qa.GodownTest.DomesticDeliveryTest =====
+2025-10-18 17:43:30,339 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser launched and navigated to application.
+2025-10-18 17:43:31,166 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - All Page Objects initialized successfully.
+2025-10-18 17:43:31,210 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Starting test case: verifyDomesticDeliveryTest
+2025-10-18 17:46:00,852 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Filled rows: 26
+2025-10-18 17:46:01,721 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Clicked on Submit button.
+2025-10-18 17:46:15,287 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Domestic delivery submitted successfully.
+2025-10-18 17:46:39,609 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Reopened Domestic Delivery page to verify submission.
+2025-10-18 17:46:45,430 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - Browser closed successfully.
+2025-10-18 17:46:45,431 [main] INFO  com.erp.qa.GodownTest.DomesticDeliveryTest - ✅ Test Passed: verifyDomesticDeliveryTest

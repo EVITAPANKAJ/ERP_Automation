@@ -1,0 +1,27 @@
+2025-10-14 09:50:12,200 [main] INFO  com.erp.qa.countertests.TaoutTest - ===== Starting Test Setup for: com.erp.qa.countertests.TaoutTest =====
+2025-10-14 09:50:19,088 [main] INFO  com.erp.qa.countertests.TaoutTest - Browser launched and navigated to application.
+2025-10-14 09:50:19,345 [main] INFO  com.erp.qa.countertests.TaoutTest - All Page Objects initialized successfully.
+2025-10-14 09:50:19,373 [main] INFO  com.erp.qa.countertests.TaoutTest - Starting test: verifyCounterLink
+2025-10-14 09:50:21,804 [main] INFO  com.erp.qa.countertests.TaoutTest - Login successful
+2025-10-14 09:50:36,238 [main] INFO  com.erp.qa.countertests.TaoutTest - Counter Sales link clicked successfully
+2025-10-14 09:50:37,868 [main] INFO  com.erp.qa.countertests.TaoutTest - Taout link clicked successfully
+2025-10-14 09:50:43,791 [main] INFO  com.erp.qa.countertests.TaoutTest - Details filled successfully
+2025-10-14 09:50:43,793 [main] INFO  com.erp.qa.countertests.TaoutTest - Test verifyCounterLink completed successfully
+2025-10-14 09:50:44,446 [main] INFO  com.erp.qa.countertests.TaoutTest - Browser closed successfully.
+2025-10-14 09:50:44,447 [main] ERROR com.erp.qa.countertests.TaoutTest - ❌ Test Failed: verifyCounterLink | unexpected alert open: {Alert text : Are you sure you want to Save?} (Session info: chrome=141.0.7390.66): Are you sure you want to Save? Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [6a202188ee49c80986e6b140df8980bf, findElement {using=id, value=btnSubmit}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.66, chrome: {chromedriverVersion: 141.0.7390.76 (d6fcfbb51aac..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57035}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57035/devtoo..., se:cdpVersion: 141.0.7390.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 6a202188ee49c80986e6b140df8980bf
+2025-10-14 09:50:44,449 [main] WARN  com.erp.qa.countertests.TaoutTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-14 10:14:11,520 [main] INFO  com.erp.qa.countertests.TaoutTest - ===== Starting Test Setup for: com.erp.qa.countertests.TaoutTest =====
+2025-10-14 10:14:18,479 [main] INFO  com.erp.qa.countertests.TaoutTest - Browser launched and navigated to application.
+2025-10-14 10:14:19,004 [main] INFO  com.erp.qa.countertests.TaoutTest - All Page Objects initialized successfully.
+2025-10-14 10:14:19,022 [main] INFO  com.erp.qa.countertests.TaoutTest - Starting test: verifyCounterLink
+2025-10-14 10:14:21,455 [main] INFO  com.erp.qa.countertests.TaoutTest - Login successful
+2025-10-14 10:14:35,935 [main] INFO  com.erp.qa.countertests.TaoutTest - Counter Sales link clicked successfully
+2025-10-14 10:14:38,196 [main] INFO  com.erp.qa.countertests.TaoutTest - Taout link clicked successfully
+2025-10-14 10:14:46,596 [main] INFO  com.erp.qa.countertests.TaoutTest - Details filled successfully
+2025-10-14 10:14:46,597 [main] INFO  com.erp.qa.countertests.TaoutTest - Test verifyCounterLink completed successfully
+2025-10-14 10:14:46,598 [main] INFO  com.erp.qa.countertests.TaoutTest - Submit button clicked successfully
+2025-10-14 10:14:46,840 [main] INFO  com.erp.qa.countertests.TaoutTest - Back button clicked successfully.
+2025-10-14 10:14:48,457 [main] INFO  com.erp.qa.countertests.TaoutTest - Update New Connection link clicked successfully.
+2025-10-14 10:14:48,769 [main] INFO  com.erp.qa.countertests.TaoutTest - MDL Document Number entered successfully: 2500034
+2025-10-14 10:14:49,899 [main] INFO  com.erp.qa.countertests.TaoutTest - Browser closed successfully.
+2025-10-14 10:14:49,901 [main] INFO  com.erp.qa.countertests.TaoutTest - ✅ Test Passed: verifyCounterLink

@@ -1,0 +1,10 @@
+2025-10-10 17:40:11,972 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - ===== Starting Test Setup for: com.erp.qa.countertests.BeyondSaleTest =====
+2025-10-10 17:40:25,073 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - Browser launched and navigated to application.
+2025-10-10 17:40:25,931 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - All Page Objects initialized successfully.
+2025-10-10 17:40:26,008 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - ********** Starting test case: verifyCounterLink **********
+2025-10-10 17:40:29,869 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - Login successful
+2025-10-10 17:41:11,594 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - Clicked on Counter Sales link
+2025-10-10 17:41:13,975 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - Clicked on Beyond Sales link
+2025-10-10 17:41:21,831 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - Filled details in Beyond Sale form
+2025-10-10 17:41:26,970 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - Browser closed successfully.
+2025-10-10 17:41:26,971 [main] INFO  com.erp.qa.countertests.BeyondSaleTest - ✅ Test Passed: verifyCounterLink

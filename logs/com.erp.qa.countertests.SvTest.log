@@ -1,0 +1,156 @@
+2025-10-11 10:28:39,340 [main] INFO  com.erp.qa.countertests.SvTest - ===== Starting Test Setup for: com.erp.qa.countertests.SvTest =====
+2025-10-11 10:29:06,312 [main] INFO  com.erp.qa.countertests.SvTest - Browser launched and navigated to application.
+2025-10-11 10:29:09,797 [main] INFO  com.erp.qa.countertests.SvTest - All Page Objects initialized successfully.
+2025-10-11 10:29:09,998 [main] INFO  com.erp.qa.countertests.SvTest - Starting test: verifyCounterLink
+2025-10-11 10:29:16,123 [main] INFO  com.erp.qa.countertests.SvTest - Login successful
+2025-10-11 10:29:26,660 [main] INFO  com.erp.qa.countertests.SvTest - Counter Sales link clicked successfully.
+2025-10-11 10:29:33,062 [main] INFO  com.erp.qa.countertests.SvTest - SV link clicked successfully.
+2025-10-11 10:29:51,182 [main] INFO  com.erp.qa.countertests.SvTest - Details filled successfully.
+2025-10-11 10:30:01,211 [main] INFO  com.erp.qa.countertests.SvTest - Browser closed successfully.
+2025-10-11 10:30:01,238 [main] ERROR com.erp.qa.countertests.SvTest - ❌ Test Failed: verifyCounterLink | unexpected alert open: {Alert text : Are you sure you want to Save?} (Session info: chrome=140.0.7339.210): Are you sure you want to Save? Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [9e9ecb0065c003b8598f9e3877e8501c, findElement {using=id, value=btnSubmit}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50826}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50826/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 9e9ecb0065c003b8598f9e3877e8501c
+2025-10-11 10:30:01,242 [main] WARN  com.erp.qa.countertests.SvTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 10:42:04,164 [main] INFO  com.erp.qa.countertests.SvTest - ===== Starting Test Setup for: com.erp.qa.countertests.SvTest =====
+2025-10-11 10:42:45,652 [main] INFO  com.erp.qa.countertests.SvTest - Browser launched and navigated to application.
+2025-10-11 10:42:51,103 [main] INFO  com.erp.qa.countertests.SvTest - All Page Objects initialized successfully.
+2025-10-11 10:42:51,803 [main] INFO  com.erp.qa.countertests.SvTest - Starting test: verifyCounterLink
+2025-10-11 10:43:19,645 [main] INFO  com.erp.qa.countertests.SvTest - Login successful
+2025-10-11 10:43:23,751 [main] INFO  com.erp.qa.countertests.SvTest - Counter Sales link clicked successfully.
+2025-10-11 10:43:32,611 [main] INFO  com.erp.qa.countertests.SvTest - SV link clicked successfully.
+2025-10-11 10:44:02,216 [main] INFO  com.erp.qa.countertests.SvTest - Details filled successfully.
+2025-10-11 10:44:28,171 [main] INFO  com.erp.qa.countertests.SvTest - Browser closed successfully.
+2025-10-11 10:44:28,185 [main] ERROR com.erp.qa.countertests.SvTest - ❌ Test Failed: verifyCounterLink | no such element: Unable to locate element: {"method":"css selector","selector":"#btnSubmit"} (Session info: chrome=140.0.7339.210) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [edd2a1550de26fb2466141aff125860d, findElement {value=btnSubmit, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59951}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59951/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: edd2a1550de26fb2466141aff125860d
+2025-10-11 10:44:28,192 [main] WARN  com.erp.qa.countertests.SvTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 11:49:52,718 [main] INFO  com.erp.qa.countertests.SvTest - ===== Starting Test Setup for: com.erp.qa.countertests.SvTest =====
+2025-10-11 11:50:24,464 [main] INFO  com.erp.qa.countertests.SvTest - Browser launched and navigated to application.
+2025-10-11 11:50:26,742 [main] INFO  com.erp.qa.countertests.SvTest - All Page Objects initialized successfully.
+2025-10-11 11:50:26,880 [main] INFO  com.erp.qa.countertests.SvTest - Starting test: verifyCounterLink
+2025-10-11 11:50:30,407 [main] INFO  com.erp.qa.countertests.SvTest - Login successful
+2025-10-11 11:50:37,529 [main] INFO  com.erp.qa.countertests.SvTest - Counter Sales link clicked successfully.
+2025-10-11 11:50:41,761 [main] INFO  com.erp.qa.countertests.SvTest - SV link clicked successfully.
+2025-10-11 11:50:54,633 [main] INFO  com.erp.qa.countertests.SvTest - Details filled successfully.
+2025-10-11 11:51:12,337 [main] INFO  com.erp.qa.countertests.SvTest - Browser closed successfully.
+2025-10-11 11:51:12,341 [main] ERROR com.erp.qa.countertests.SvTest - ❌ Test Failed: verifyCounterLink | no such element: Unable to locate element: {"method":"css selector","selector":"#btnSubmit"} (Session info: chrome=140.0.7339.210) For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [0773f54384cc87b53c8b51e3759157b8, findElement {using=id, value=btnSubmit}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54717}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54717/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 0773f54384cc87b53c8b51e3759157b8
+2025-10-11 11:51:12,346 [main] WARN  com.erp.qa.countertests.SvTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 12:10:20,087 [main] INFO  com.erp.qa.countertests.SvTest - ===== Starting Test Setup for: com.erp.qa.countertests.SvTest =====
+2025-10-11 12:10:24,864 [main] INFO  com.erp.qa.countertests.SvTest - Browser launched and navigated to application.
+2025-10-11 12:10:25,898 [main] INFO  com.erp.qa.countertests.SvTest - All Page Objects initialized successfully.
+2025-10-11 12:10:25,912 [main] INFO  com.erp.qa.countertests.SvTest - Starting test: verifyCounterLink
+2025-10-11 12:10:28,267 [main] INFO  com.erp.qa.countertests.SvTest - Login successful
+2025-10-11 12:10:52,998 [main] INFO  com.erp.qa.countertests.SvTest - Counter Sales link clicked successfully.
+2025-10-11 12:10:54,555 [main] INFO  com.erp.qa.countertests.SvTest - SV link clicked successfully.
+2025-10-11 12:10:55,790 [main] INFO  com.erp.qa.countertests.SvTest - Browser closed successfully.
+2025-10-11 12:10:55,794 [main] ERROR com.erp.qa.countertests.SvTest - ❌ Test Failed: verifyCounterLink | unexpected alert open: {Alert text : This Invoice is Already Exists!!} (Session info: chrome=140.0.7339.210): This Invoice is Already Exists!! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [f8f0133e500fe243e2c3f967e5485bed, findElement {using=id, value=txtDocNo}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62362}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62362/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: f8f0133e500fe243e2c3f967e5485bed
+2025-10-11 12:10:55,795 [main] WARN  com.erp.qa.countertests.SvTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 12:13:49,731 [main] INFO  com.erp.qa.countertests.SvTest - ===== Starting Test Setup for: com.erp.qa.countertests.SvTest =====
+2025-10-11 12:13:54,924 [main] INFO  com.erp.qa.countertests.SvTest - Browser launched and navigated to application.
+2025-10-11 12:13:55,537 [main] INFO  com.erp.qa.countertests.SvTest - All Page Objects initialized successfully.
+2025-10-11 12:13:55,576 [main] INFO  com.erp.qa.countertests.SvTest - Starting test: verifyCounterLink
+2025-10-11 12:13:58,072 [main] INFO  com.erp.qa.countertests.SvTest - Login successful
+2025-10-11 12:14:01,309 [main] INFO  com.erp.qa.countertests.SvTest - Counter Sales link clicked successfully.
+2025-10-11 12:14:03,311 [main] INFO  com.erp.qa.countertests.SvTest - SV link clicked successfully.
+2025-10-11 12:14:07,849 [main] INFO  com.erp.qa.countertests.SvTest - Browser closed successfully.
+2025-10-11 12:14:07,850 [main] ERROR com.erp.qa.countertests.SvTest - ❌ Test Failed: verifyCounterLink | Unresolved compilation problem: The return type is incompatible with Object.wait()
+2025-10-11 12:14:07,850 [main] WARN  com.erp.qa.countertests.SvTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 12:24:00,910 [main] INFO  com.erp.qa.countertests.SvTest - ===== Starting Test Setup for: com.erp.qa.countertests.SvTest =====
+2025-10-11 12:24:06,543 [main] INFO  com.erp.qa.countertests.SvTest - Browser launched and navigated to application.
+2025-10-11 12:24:07,224 [main] INFO  com.erp.qa.countertests.SvTest - All Page Objects initialized successfully.
+2025-10-11 12:24:07,256 [main] INFO  com.erp.qa.countertests.SvTest - Starting test: verifyCounterLink
+2025-10-11 12:24:09,752 [main] INFO  com.erp.qa.countertests.SvTest - Login successful
+2025-10-11 12:24:19,952 [main] INFO  com.erp.qa.countertests.SvTest - Counter Sales link clicked successfully.
+2025-10-11 12:24:22,165 [main] INFO  com.erp.qa.countertests.SvTest - SV link clicked successfully.
+2025-10-11 12:24:30,175 [main] INFO  com.erp.qa.countertests.SvTest - Details filled successfully. billNo=2500023
+2025-10-11 12:24:30,742 [main] INFO  com.erp.qa.countertests.SvTest - Back button clicked successfully.
+2025-10-11 12:24:32,904 [main] INFO  com.erp.qa.countertests.SvTest - Update New Connection link clicked successfully.
+2025-10-11 12:24:33,270 [main] INFO  com.erp.qa.countertests.SvTest - MDL Document Number entered successfully: 2500023
+2025-10-11 12:24:35,648 [main] INFO  com.erp.qa.countertests.SvTest - Browser closed successfully.
+2025-10-11 12:24:35,649 [main] INFO  com.erp.qa.countertests.SvTest - ✅ Test Passed: verifyCounterLink
+2025-10-11 12:31:19,182 [main] INFO  com.erp.qa.countertests.SvTest - ===== Starting Test Setup for: com.erp.qa.countertests.SvTest =====
+2025-10-11 12:31:24,740 [main] INFO  com.erp.qa.countertests.SvTest - Browser launched and navigated to application.
+2025-10-11 12:31:25,243 [main] INFO  com.erp.qa.countertests.SvTest - All Page Objects initialized successfully.
+2025-10-11 12:31:25,278 [main] INFO  com.erp.qa.countertests.SvTest - Starting test: verifyCounterLink
+2025-10-11 12:31:27,738 [main] INFO  com.erp.qa.countertests.SvTest - Login successful
+2025-10-11 12:31:33,835 [main] INFO  com.erp.qa.countertests.SvTest - Counter Sales link clicked successfully.
+2025-10-11 12:31:36,066 [main] INFO  com.erp.qa.countertests.SvTest - SV link clicked successfully.
+2025-10-11 12:31:42,587 [main] INFO  com.erp.qa.countertests.SvTest - Details filled successfully. billNo=2500023
+2025-10-11 12:31:43,064 [main] INFO  com.erp.qa.countertests.SvTest - Back button clicked successfully.
+2025-10-11 12:31:45,108 [main] INFO  com.erp.qa.countertests.SvTest - Update New Connection link clicked successfully.
+2025-10-11 12:31:45,417 [main] INFO  com.erp.qa.countertests.SvTest - MDL Document Number entered successfully: 2500023
+2025-10-11 12:31:45,641 [main] INFO  com.erp.qa.countertests.SvTest - MDL Get button clicked successfully.
+2025-10-11 12:31:45,672 [main] INFO  com.erp.qa.countertests.SvTest - Alert handled successfully.
+2025-10-11 12:31:46,128 [main] INFO  com.erp.qa.countertests.SvTest - Browser closed successfully.
+2025-10-11 12:31:46,129 [main] INFO  com.erp.qa.countertests.SvTest - ✅ Test Passed: verifyCounterLink
+2025-10-11 12:33:17,460 [main] INFO  com.erp.qa.countertests.SvTest - ===== Starting Test Setup for: com.erp.qa.countertests.SvTest =====
+2025-10-11 12:33:23,352 [main] INFO  com.erp.qa.countertests.SvTest - Browser launched and navigated to application.
+2025-10-11 12:33:23,671 [main] INFO  com.erp.qa.countertests.SvTest - All Page Objects initialized successfully.
+2025-10-11 12:33:23,695 [main] INFO  com.erp.qa.countertests.SvTest - Starting test: verifyCounterLink
+2025-10-11 12:33:26,263 [main] INFO  com.erp.qa.countertests.SvTest - Login successful
+2025-10-11 12:33:29,401 [main] INFO  com.erp.qa.countertests.SvTest - Counter Sales link clicked successfully.
+2025-10-11 12:33:31,980 [main] INFO  com.erp.qa.countertests.SvTest - SV link clicked successfully.
+2025-10-11 12:33:38,098 [main] INFO  com.erp.qa.countertests.SvTest - Details filled successfully. billNo=2500023
+2025-10-11 12:33:38,752 [main] INFO  com.erp.qa.countertests.SvTest - Back button clicked successfully.
+2025-10-11 12:33:40,945 [main] INFO  com.erp.qa.countertests.SvTest - Update New Connection link clicked successfully.
+2025-10-11 12:33:41,284 [main] INFO  com.erp.qa.countertests.SvTest - MDL Document Number entered successfully: 2500023
+2025-10-11 12:33:41,479 [main] INFO  com.erp.qa.countertests.SvTest - MDL Get button clicked successfully.
+2025-10-11 12:33:41,507 [main] INFO  com.erp.qa.countertests.SvTest - Alert handled successfully.
+2025-10-11 12:33:44,375 [main] INFO  com.erp.qa.countertests.SvTest - Browser closed successfully.
+2025-10-11 12:33:44,376 [main] INFO  com.erp.qa.countertests.SvTest - ✅ Test Passed: verifyCounterLink
+2025-10-11 12:40:03,507 [main] INFO  com.erp.qa.countertests.SvTest - ===== Starting Test Setup for: com.erp.qa.countertests.SvTest =====
+2025-10-11 12:40:09,692 [main] INFO  com.erp.qa.countertests.SvTest - Browser launched and navigated to application.
+2025-10-11 12:40:10,093 [main] INFO  com.erp.qa.countertests.SvTest - All Page Objects initialized successfully.
+2025-10-11 12:40:10,120 [main] INFO  com.erp.qa.countertests.SvTest - Starting test: verifyCounterLink
+2025-10-11 12:40:12,574 [main] INFO  com.erp.qa.countertests.SvTest - Login successful
+2025-10-11 12:40:23,884 [main] INFO  com.erp.qa.countertests.SvTest - Counter Sales link clicked successfully.
+2025-10-11 12:40:25,872 [main] INFO  com.erp.qa.countertests.SvTest - SV link clicked successfully.
+2025-10-11 12:40:32,350 [main] INFO  com.erp.qa.countertests.SvTest - Details filled successfully. billNo=2500023
+2025-10-11 12:40:34,814 [main] INFO  com.erp.qa.countertests.SvTest - Back button clicked successfully.
+2025-10-11 12:40:35,368 [main] INFO  com.erp.qa.countertests.SvTest - Update New Connection link clicked successfully.
+2025-10-11 12:40:35,667 [main] INFO  com.erp.qa.countertests.SvTest - MDL Document Number entered successfully: 2500023
+2025-10-11 12:40:35,900 [main] INFO  com.erp.qa.countertests.SvTest - MDL Get button clicked successfully.
+2025-10-11 12:40:35,948 [main] INFO  com.erp.qa.countertests.SvTest - Alert handled successfully.
+2025-10-11 12:40:39,202 [main] INFO  com.erp.qa.countertests.SvTest - Delete button clicked successfully.
+2025-10-11 12:40:39,818 [main] INFO  com.erp.qa.countertests.SvTest - Browser closed successfully.
+2025-10-11 12:40:39,819 [main] INFO  com.erp.qa.countertests.SvTest - ✅ Test Passed: verifyCounterLink
+2025-10-11 12:40:49,718 [main] INFO  com.erp.qa.countertests.SvTest - ===== Starting Test Setup for: com.erp.qa.countertests.SvTest =====
+2025-10-11 12:40:54,906 [main] INFO  com.erp.qa.countertests.SvTest - Browser launched and navigated to application.
+2025-10-11 12:40:55,264 [main] INFO  com.erp.qa.countertests.SvTest - All Page Objects initialized successfully.
+2025-10-11 12:40:55,295 [main] INFO  com.erp.qa.countertests.SvTest - Starting test: verifyCounterLink
+2025-10-11 12:40:57,762 [main] INFO  com.erp.qa.countertests.SvTest - Login successful
+2025-10-11 12:41:01,132 [main] INFO  com.erp.qa.countertests.SvTest - Counter Sales link clicked successfully.
+2025-10-11 12:41:03,946 [main] INFO  com.erp.qa.countertests.SvTest - SV link clicked successfully.
+2025-10-11 12:41:05,699 [main] INFO  com.erp.qa.countertests.SvTest - Browser closed successfully.
+2025-10-11 12:41:05,706 [main] ERROR com.erp.qa.countertests.SvTest - ❌ Test Failed: verifyCounterLink | unexpected alert open: {Alert text : This Invoice is Already Exists!!} (Session info: chrome=140.0.7339.210): This Invoice is Already Exists!! Build info: version: '4.25.0', revision: '8a8aea2337' System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [99a9291bd317a036ef1f172a86d54efe, findElement {value=txtDocNo, using=id}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.210, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\PANKAJ~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64098}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64098/devtoo..., se:cdpVersion: 140.0.7339.210, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} Session ID: 99a9291bd317a036ef1f172a86d54efe
+2025-10-11 12:41:05,707 [main] WARN  com.erp.qa.countertests.SvTest - ⚠️ Test Skipped: verifyCounterLink
+2025-10-11 12:42:30,992 [main] INFO  com.erp.qa.countertests.SvTest - ===== Starting Test Setup for: com.erp.qa.countertests.SvTest =====
+2025-10-11 12:42:36,496 [main] INFO  com.erp.qa.countertests.SvTest - Browser launched and navigated to application.
+2025-10-11 12:42:36,845 [main] INFO  com.erp.qa.countertests.SvTest - All Page Objects initialized successfully.
+2025-10-11 12:42:36,883 [main] INFO  com.erp.qa.countertests.SvTest - Starting test: verifyCounterLink
+2025-10-11 12:42:39,396 [main] INFO  com.erp.qa.countertests.SvTest - Login successful
+2025-10-11 12:42:42,530 [main] INFO  com.erp.qa.countertests.SvTest - Counter Sales link clicked successfully.
+2025-10-11 12:42:44,481 [main] INFO  com.erp.qa.countertests.SvTest - SV link clicked successfully.
+2025-10-11 12:42:51,393 [main] INFO  com.erp.qa.countertests.SvTest - Details filled successfully. billNo=2500023
+2025-10-11 12:42:52,109 [main] INFO  com.erp.qa.countertests.SvTest - Back button clicked successfully.
+2025-10-11 12:42:54,165 [main] INFO  com.erp.qa.countertests.SvTest - Update New Connection link clicked successfully.
+2025-10-11 12:42:54,505 [main] INFO  com.erp.qa.countertests.SvTest - MDL Document Number entered successfully: 2500023
+2025-10-11 12:42:54,720 [main] INFO  com.erp.qa.countertests.SvTest - MDL Get button clicked successfully.
+2025-10-11 12:42:54,750 [main] INFO  com.erp.qa.countertests.SvTest - Alert handled successfully.
+2025-10-11 12:42:56,846 [main] INFO  com.erp.qa.countertests.SvTest - Delete button clicked successfully.
+2025-10-11 12:42:57,064 [main] INFO  com.erp.qa.countertests.SvTest - Delete confirmation alert handled successfully.
+2025-10-11 12:42:57,432 [main] INFO  com.erp.qa.countertests.SvTest - Browser closed successfully.
+2025-10-11 12:42:57,434 [main] INFO  com.erp.qa.countertests.SvTest - ✅ Test Passed: verifyCounterLink
+2025-10-11 12:43:06,624 [main] INFO  com.erp.qa.countertests.SvTest - ===== Starting Test Setup for: com.erp.qa.countertests.SvTest =====
+2025-10-11 12:43:12,118 [main] INFO  com.erp.qa.countertests.SvTest - Browser launched and navigated to application.
+2025-10-11 12:43:12,457 [main] INFO  com.erp.qa.countertests.SvTest - All Page Objects initialized successfully.
+2025-10-11 12:43:12,486 [main] INFO  com.erp.qa.countertests.SvTest - Starting test: verifyCounterLink
+2025-10-11 12:43:15,036 [main] INFO  com.erp.qa.countertests.SvTest - Login successful
+2025-10-11 12:43:29,050 [main] INFO  com.erp.qa.countertests.SvTest - Counter Sales link clicked successfully.
+2025-10-11 12:43:31,536 [main] INFO  com.erp.qa.countertests.SvTest - SV link clicked successfully.
+2025-10-11 12:43:38,656 [main] INFO  com.erp.qa.countertests.SvTest - Details filled successfully. billNo=2500023
+2025-10-11 12:43:39,197 [main] INFO  com.erp.qa.countertests.SvTest - Back button clicked successfully.
+2025-10-11 12:43:41,285 [main] INFO  com.erp.qa.countertests.SvTest - Update New Connection link clicked successfully.
+2025-10-11 12:43:41,578 [main] INFO  com.erp.qa.countertests.SvTest - MDL Document Number entered successfully: 2500023
+2025-10-11 12:43:41,793 [main] INFO  com.erp.qa.countertests.SvTest - MDL Get button clicked successfully.
+2025-10-11 12:43:41,819 [main] INFO  com.erp.qa.countertests.SvTest - Alert handled successfully.
+2025-10-11 12:43:44,038 [main] INFO  com.erp.qa.countertests.SvTest - Delete button clicked successfully.
+2025-10-11 12:43:44,228 [main] INFO  com.erp.qa.countertests.SvTest - Delete confirmation alert handled successfully.
+2025-10-11 12:43:44,822 [main] INFO  com.erp.qa.countertests.SvTest - Browser closed successfully.
+2025-10-11 12:43:44,823 [main] INFO  com.erp.qa.countertests.SvTest - ✅ Test Passed: verifyCounterLink
