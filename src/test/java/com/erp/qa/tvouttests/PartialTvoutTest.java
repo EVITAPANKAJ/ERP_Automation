@@ -4,6 +4,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
 import com.erp.qa.base.BaseTest;
+import com.erp.qa.tvoutpages.PartialTvoutPage;
 
 
 public class PartialTvoutTest extends BaseTest {	
@@ -12,8 +13,11 @@ public class PartialTvoutTest extends BaseTest {
 	@Test(priority = 1)
 	public void verifyPartialTvoutLink() throws Exception {
 		log.info("Starting test: verifyPartialTvoutLink");
-		lp.login("qatest","Qatest@_2025");
+		login("qatest","Qatest@_2025");
 		log.info("Login successful");
+		
+		PartialTvoutPage ptv=new PartialTvoutPage(driver);
+		
 		ptv.clickOnTvModuleLink();
 		log.info("TV Module link clicked successfully.");
 		ptv.clickOnPartialTvoutLink();
@@ -32,7 +36,7 @@ public class PartialTvoutTest extends BaseTest {
 		@Test(priority = 2)
 		public void verifyWithConsumerDetails() throws Exception {
 			log.info("Starting test: verifyWithConsumerDetails");
-			lp.login("qatest","Qatest@_2025");
+			login("qatest","Qatest@_2025");
 			log.info("Login successful");
 			ptv.clickOnTvModuleLink();
 			log.info("TV Module link clicked successfully.");

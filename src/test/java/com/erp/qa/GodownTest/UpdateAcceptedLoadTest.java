@@ -4,6 +4,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
 
+import com.erp.qa.GodownPage.UpdateAcceptedLoadPage;
 import com.erp.qa.base.BaseTest;
 
 
@@ -13,9 +14,12 @@ public class UpdateAcceptedLoadTest extends BaseTest{
 	@Test	
 	public void verifyUpdateAcceptedLoadTest() throws Exception {
 		log.info("Starting test case: verifyUpdateAcceptedLoadTest");
-		lp.login("qatest","Qatest@_2025");
+		login("qatest","Qatest@_2025");
 		log.info("Login successful");
 		Thread.sleep(3000);
+		
+		UpdateAcceptedLoadPage ualp=new UpdateAcceptedLoadPage(driver);
+		
 		gp.clickOnGodown();
 		log.info("Clicked on Godown module");
 		ualp.clickOnupdateaccepted();

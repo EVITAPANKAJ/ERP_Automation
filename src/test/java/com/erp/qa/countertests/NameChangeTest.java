@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
 
 import com.erp.qa.base.BaseTest;
+import com.erp.qa.counterpages.NameChangePage;
 
 public class NameChangeTest extends BaseTest {
 	private static Logger log = LogManager.getLogger(NameChangeTest.class.getName());
@@ -12,9 +13,10 @@ public class NameChangeTest extends BaseTest {
 	@Test
 	public void verifyCounterLink() throws Exception {
 		log.info("********** Starting Test Case: NameChangeTest **********");
-		lp.login("qatest","Qatest@_2025");
+		login("qatest","Qatest@_2025");
 		log.info("Login successful");
 		Thread.sleep(3000);
+		NameChangePage ncp=new NameChangePage(driver);
 		sv.clickOnCounterSalesLink();
 		log.info("Counter Sales link clicked successfully");
 		ncp.clickOnNameChangeLink();

@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
 
 import com.erp.qa.base.BaseTest;
+import com.erp.qa.purchasepages.PurchaseServiceLIstPage;
 
 public class PurchaseServiceListTest extends BaseTest{
 	private static Logger log = LogManager.getFormatterLogger(PurchaseServiceListTest.class);
@@ -12,9 +13,12 @@ public class PurchaseServiceListTest extends BaseTest{
 	@Test
 	public void verifyPurchaseServiceListTest() throws Exception{
 		log.info("********** Starting Purchase Service List Test **********");
-	lp.login("qatest","Qatest@_2025");
+	login("qatest","Qatest@_2025");
 	log.info("Login Successfully.");
 	Thread.sleep(3000);
+	
+	PurchaseServiceLIstPage pslp=new PurchaseServiceLIstPage(driver);
+	
 	pp.clickOnPurchaseLink();
 	log.info("Purchase link clicked Successfully.");
 	pslp.clickOnPurchaseService();

@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
 
 import com.erp.qa.base.BaseTest;
+import com.erp.qa.counterpages.BeyondSalePage;
 
 public class BeyondSaleTest extends BaseTest{
 	private static Logger log = LogManager.getFormatterLogger(BeyondSaleTest.class);
@@ -12,9 +13,10 @@ public class BeyondSaleTest extends BaseTest{
 	@Test
 	public void verifyCounterLink() throws Exception {
 		log.info("********** Starting test case: verifyCounterLink **********");
-		lp.login("qatest","Qatest@_2025");
+		login("qatest","Qatest@_2025");
 		log.info("Login successful");
 		Thread.sleep(3000);
+		BeyondSalePage bsp=new BeyondSalePage(driver);
 		sv.clickOnCounterSalesLink();
 		log.info("Clicked on Counter Sales link");
 		bsp.clickOnBeyondSalesLink();

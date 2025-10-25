@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
 
 import com.erp.qa.base.BaseTest;
+import com.erp.qa.counterpages.DbcPage;
 
 public class DbcTest extends BaseTest {
 	private static Logger log = LogManager.getFormatterLogger(DbcTest.class.getName());
@@ -12,9 +13,10 @@ public class DbcTest extends BaseTest {
 	@Test
 	public void verifyPurchaseLink() throws Exception {
 		log.info("Starting test: verifyPurchaseLink");
-		lp.login("qatest","Qatest@_2025");
+		login("qatest","Qatest@_2025");
 		log.info("Logged in successfully");
 		Thread.sleep(3000);	
+		DbcPage dbc=new DbcPage(driver);
 		sv.clickOnCounterSalesLink();
 		log.info("Clicked on Counter Sales link");
 		dbc.clickOnDBCLink();

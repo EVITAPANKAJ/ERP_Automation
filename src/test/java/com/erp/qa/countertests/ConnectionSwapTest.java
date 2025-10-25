@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
 
 import com.erp.qa.base.BaseTest;
+import com.erp.qa.counterpages.ConnectionSwapPage;
 
 public class ConnectionSwapTest extends BaseTest {
 	private static Logger log = LogManager.getFormatterLogger(ConnectionSwapTest.class.getName());
@@ -12,8 +13,9 @@ public class ConnectionSwapTest extends BaseTest {
 	@Test
 	public void verifyCounterLink() throws Exception {
 		log.info("Starting test: verifyCounterLink");
-		lp.login("qatest","Qatest@_2025");
+		login("qatest","Qatest@_2025");
 		Thread.sleep(3000);
+		ConnectionSwapPage csp=new ConnectionSwapPage(driver);
 		sv.clickOnCounterSalesLink();
 		log.info("Counter Sales link clicked successfully.");
 		csp.clickOnConnectionSwapLink();

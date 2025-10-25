@@ -3,6 +3,8 @@ package com.erp.qa.GodownTest;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
+
+import com.erp.qa.GodownPage.PartialPurchasePage;
 import com.erp.qa.base.BaseTest;
 
 public class PartialPurchaseTest extends BaseTest{
@@ -10,9 +12,12 @@ public class PartialPurchaseTest extends BaseTest{
 	@Test	
 	public void verifyPurchaseLink() throws Exception {
 		log.info("Starting test case: verifyPurchaseLink");
-		lp.login("qatest","Qatest@_2025");
+		login("qatest","Qatest@_2025");
 		log.info("Login successful");
 		Thread.sleep(3000);
+		
+		PartialPurchasePage gp=new PartialPurchasePage(driver);
+		
 		gp.clickOnGodown();
 		log.info("Navigated to Godown section");
 		gp.clickOnPartialPurchase();

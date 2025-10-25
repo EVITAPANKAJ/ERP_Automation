@@ -7,6 +7,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.erp.qa.base.BaseTest;
+import com.erp.qa.tvoutpages.PartialTvOutListPage;
 
 public class PartialTvOutListTest extends BaseTest {
 	private static Logger log = LogManager.getFormatterLogger(PartialTvOutListTest.class);
@@ -14,8 +15,11 @@ public class PartialTvOutListTest extends BaseTest {
     @Test
     public void verifyPartialTvoutListlink() throws Exception {
     	log.info("Starting test: verifyPartialTvoutListlink");
-		lp.login("qatest","Qatest@_2025");
+		login("qatest","Qatest@_2025");
 		log.info("Login successful");
+		
+		PartialTvOutListPage ptvl=new PartialTvOutListPage(driver);
+		
 		ptvl.clickOnTvModuleLink();
 		log.info("TV Module link clicked successfully.");
 		ptvl.clickonPartialtvoutlist();
@@ -50,7 +54,7 @@ public class PartialTvOutListTest extends BaseTest {
     private void performPartialTvOutFlow(String consumerNumber, String consumerName, String amount, String cityName, int option, String servic, String unitcost, String service, String Unitcos) throws Exception {
     	setLog(LogManager.getLogger(PartialTvOutListTest.class));
     	log.info("Starting performPartialTvOutFlow with parameters: consumerNumber=" + consumerNumber + ", consumerName=" + consumerName + ", amount=" + amount + ", cityName=" + cityName + ", option=" + option + ", servic=" + servic + ", unitcost=" + unitcost + ", service=" + service + ", Unitcos=" + Unitcos);
-        lp.login("qatest","Qatest@_2025");
+        login("qatest","Qatest@_2025");
         log.info("Login successful");
         ptvl.clickOnTvModuleLink();
         log.info("TV Module link clicked successfully.");        

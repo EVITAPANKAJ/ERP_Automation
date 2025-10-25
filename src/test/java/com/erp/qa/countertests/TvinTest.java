@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
 
 import com.erp.qa.base.BaseTest;
+import com.erp.qa.counterpages.TvinPage;
 
 public class TvinTest extends BaseTest {
 	private static Logger log = LogManager.getFormatterLogger(TvinTest.class.getName());
@@ -12,9 +13,12 @@ public class TvinTest extends BaseTest {
 	@Test
 	public void verifyCounterLink() throws Exception {
 		log.info("Starting test: verifyCounterLink");
-		lp.login("qatest","Qatest@_2025");
+		login("qatest","Qatest@_2025");
 		log.info("Login successful.");
 		Thread.sleep(3000);
+		
+		TvinPage tvin=new TvinPage(driver);
+		
 		sv.clickOnCounterSalesLink();
 		log.info("Counter Sale link clicked successfully.");
 		tvin.clickOnTvinLink();

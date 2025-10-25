@@ -31,12 +31,6 @@ public class LoginPage extends BasePage{
 		loginBtn.click();
 	}
 	
-	public void login(String user, String pass) throws Exception {
-		enterUsername(user);
-		enterPassword(pass);
-		Thread.sleep(2000); // Just for demo, avoid using Thread.sleep in real tests
-		clickLogin();
-	}
 	
 	public WebElement getPasswordField() {
 		return password;

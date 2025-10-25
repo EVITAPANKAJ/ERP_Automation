@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
+import com.erp.qa.GodownPage.DomesticDeliveryPage;
 import com.erp.qa.base.BaseTest;
 
 import org.apache.logging.log4j.ThreadContext;
@@ -23,8 +24,10 @@ public class DomesticDeliveryTest extends BaseTest {
     public void verifyDomesticDeliveryTest() throws Exception {
         log.info("Starting test case: verifyDomesticDeliveryTest");
 
-        lp.login("qatest","Qatest@_2025");
+        login("qatest","Qatest@_2025");
         gp.clickOnGodown();
+        
+        DomesticDeliveryPage ddp=new DomesticDeliveryPage(driver);
 
         ddp.openDomesticDelivery();
         ddp.enterDate("07/10/2025");

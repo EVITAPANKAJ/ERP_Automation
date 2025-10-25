@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
 
 import com.erp.qa.base.BaseTest;
+import com.erp.qa.counterpages.TainPage;
 
 public class TainTest extends BaseTest {
 	private static Logger log = LogManager.getLogger(TainTest.class.getName());
@@ -12,9 +13,12 @@ public class TainTest extends BaseTest {
 	@Test
 	public void verifyCounterLink() throws Exception {
 		log.info("Starting test: verifyCounterLink");
-		lp.login("qatest","Qatest@_2025");
+		login("qatest","Qatest@_2025");
 		log.info("Login successful");
 		Thread.sleep(3000);
+		
+		TainPage tain=new TainPage(driver);
+		
 		sv.clickOnCounterSalesLink();	
 		log.info("Counter Sales link clicked successfully");
 		tain.clickOnTainLink();

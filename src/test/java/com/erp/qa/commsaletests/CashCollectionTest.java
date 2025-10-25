@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
 
 import com.erp.qa.base.BaseTest;
+import com.erp.qa.commsalepage.CashCollectionPage;
 import com.erp.qa.countertests.BeyondSaleTest;
 
 public class CashCollectionTest extends BaseTest{	
@@ -13,9 +14,10 @@ public class CashCollectionTest extends BaseTest{
 			@Test
 			public void verifyCommSaleLink() throws Exception {
 				log.info("********** Starting test case: verifyCounterLink **********");
-				lp.login("qatest","Qatest@_2025");
+				login("qatest","Qatest@_2025");
 				log.info("Login successful");
 				Thread.sleep(3000);
+				CashCollectionPage ccp=new CashCollectionPage(driver);
 				cs.clickOnCommSaleLink();
 				ccp.clickOnCashCollectionlink();
 				ccp.clickonDeliverymandropdown();

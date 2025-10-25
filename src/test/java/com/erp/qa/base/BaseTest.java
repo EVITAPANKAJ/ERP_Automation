@@ -26,7 +26,6 @@ import com.erp.qa.GodownPage.UpdateERVPage;
 import com.erp.qa.GodownPage.XMIListPage;
 import com.erp.qa.commsalepage.CashCollectionPage;
 import com.erp.qa.commsalepage.CommSalePage;
-import com.erp.qa.commsalepage.CommercialSaleListPage;
 import com.erp.qa.commsalepage.EmptyReceivedPage;
 
 public class BaseTest {
@@ -67,7 +66,7 @@ public class BaseTest {
 	public CommSalePage cs;
 	public EmptyReceivedPage ce;
 	public CashCollectionPage ccp;
-	public CommercialSaleListPage cslp;
+	
 
 	// ----------------------------- SETUP -----------------------------
 	@BeforeMethod
@@ -119,7 +118,7 @@ public class BaseTest {
 		cs = new CommSalePage(driver);
 		ce= new EmptyReceivedPage(driver);
 		ccp= new CashCollectionPage(driver);
-		cslp=new CommercialSaleListPage(driver);
+		
 
 		log.info("All Page Objects initialized successfully.");
 	}
@@ -197,4 +196,12 @@ public class BaseTest {
 			log.info("========== Test execution completed ==========");
 		}
 	}
+	public void login(String user, String pass) throws Exception {
+		lp.enterUsername(user);
+		lp.enterPassword(pass);
+		Thread.sleep(2000); // Just for demo, avoid using Thread.sleep in real tests
+		lp.clickLogin();
+	}
+	
+	
 }

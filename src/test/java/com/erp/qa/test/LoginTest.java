@@ -35,7 +35,7 @@ public class LoginTest extends BaseTest {
 	public void testLogin(String username, String password) throws Exception {
 		
 		LoginPage lp = new LoginPage(driver);
-		lp.login(username, password);
+		login(username, password);
 		log.info("Attempting login with username: " + username);
 		Thread.sleep(3000); // Just for demo, avoid using Thread.sleep in real tests
 		// Simulate error handling: highlight the username field and capture screenshot

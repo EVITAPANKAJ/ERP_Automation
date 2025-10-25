@@ -3,6 +3,8 @@ package com.erp.qa.GodownTest;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
+
+import com.erp.qa.GodownPage.CommercialDeliveryPage;
 import com.erp.qa.base.BaseTest;
 
 
@@ -12,9 +14,12 @@ public class CommercialDeliveryTest extends BaseTest{
 	@Test
 	public void verifyCommercialDeliveryTest() throws Exception {
 		log.info("Starting test case: verifyCommercialDeliveryTest");
-		lp.login("qatest","Qatest@_2025");
+		login("qatest","Qatest@_2025");
 		log.info("Login successful");
 		Thread.sleep(3000);
+		
+		CommercialDeliveryPage cdp=new CommercialDeliveryPage(driver);
+		
 		gp.clickOnGodown();
 		log.info("Navigated to Godown section");
 		cdp.clickOnCommercialDelivery();

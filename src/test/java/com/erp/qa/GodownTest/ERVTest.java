@@ -4,6 +4,8 @@ import org.testng.annotations.Test;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.ThreadContext;
+
+import com.erp.qa.GodownPage.ERVPage;
 import com.erp.qa.base.BaseTest;
 
 public class ERVTest extends BaseTest {
@@ -15,8 +17,10 @@ public class ERVTest extends BaseTest {
         ThreadContext.put("testClass", this.getClass().getSimpleName());
 
         log.info("Starting test case: verifyERVTest");
-        lp.login("qatest", "Qatest@_2025");
+        login("qatest", "Qatest@_2025");
         log.info("Login successful");
+        
+        ERVPage ep=new ERVPage(driver);
 
         gp.clickOnGodown();
         log.info("Navigated to Godown section");
